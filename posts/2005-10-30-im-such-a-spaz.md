@@ -1,0 +1,25 @@
+---
+title: I’m such a spaz.
+author: buraglio
+type: post
+date: 2005-10-30T08:42:00+00:00
+url: /2005/10/30/im-such-a-spaz/
+blogger_blog:
+  - www.nickburaglio.com
+blogger_author:
+  - Nick Buraglio
+blogger_permalink:
+  - /2005/10/i-such-spaz.html
+categories:
+  - The firehose
+
+---
+<div>
+</div>
+
+I&#8217;m such a spaz. My interests are all over the place. I don&#8217;t think that just one blog is enough so therefore I&#8217;m playing with the idea of breaking it up into 3 categories. One of my friends, Mike Aref, has just put his [training journal][1] online and it has given me inspiration to do the same. I think I&#8217;ll be breaking up my blog into 3 blog-like sections, training, technical/geeky, and hobbies (like beer, film, games, travel, etc)&#8230;.I hope this will do a few things, document my technical stuff, record my training and catalog my hobbie stuff. We shall see&#8230;..
+
+<div>
+</div>
+
+ [1]: http://www.nickburaglio.com/
