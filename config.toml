@@ -1,0 +1,35 @@
+baseurl = "https://nickburaglio.com/"
+languageCode = "en-US"
+title = "NickBuiraglio.com"
+disqusShortname = ""
+googleAnalytics = ""
+theme = "hugo-sustain"[permalinks]
+  post = "/:year/:month/:day/:slug"[params]
+  avatar = "profile.png"
+  author = "Author Name"
+  description = "Describe your website"custom_css = []
+  custom_js  = [][params.social]
+  Github        = "buraglio"
+  Email         = "nick@buraglio.com"
+  Twitter       = "forwardingplane"
+  LinkedIn      = "buraglio"
+  Telegram      = "buraglio"[[menu.main]]
+#  name = "blog"
+#  weight = 100
+#  identifier = "blog"
+#  url = "/blog/"
+[[menu.main]]
+  name = "about"
+ identifier = "about"
+ weight = 200
+  url = "/about/"
+[[menu.main]]
+  name = "resume"
+  identifier = "resume"
+  weight = 300
+  url = "/resume/"
+[[menu.main]]
+  name = "shop"
+  identifier = "shop"
+  weight = 300
+  url = "/shop/"
