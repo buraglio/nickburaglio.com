@@ -1,30 +1,66 @@
-baseurl = "https://nickburaglio.com/"
-languageCode = "en-US"
-title = "NickBuiraglio.com"
-disqusShortname = ""
-googleAnalytics = ""
-theme = "hugo-sustain"[permalinks]
-  post = "/:year/:month/:day/:slug"[params]
-  avatar = "profile.png"
-  author = "Author Name"
-  description = "Describe your website"custom_css = []
-  custom_js  = [][params.social]
-  Github        = "buraglio"
-  Email         = "nick@buraglio.com"
-  Twitter       = "forwardingplane"
-  LinkedIn      = "buraglio"
-[[menu.main]]
-  name = "about"
- identifier = "about"
- weight = 200
-  url = "/about/"
-[[menu.main]]
-  name = "resume"
-  identifier = "resume"
-  weight = 300
-  url = "/resume/"
-[[menu.main]]
-  name = "shop"
-  identifier = "shop"
-  weight = 300
-  url = "/shop/"
+baseURL = "https://nickburaglio.com/"
+languageCode = "en-us"
+title = "Nick Buraglio"
+#theme = "m10c"
+#disqusShortname = "https-soehlert-com"
+
+[params]
+  author = "Nick Buraglio"
+  description = "I do stuff with things and sometimes I do things with stuff"
+  GitHubUser = "buraglio"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/buraglio"
+
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/forwardingplane"
+
+  [[params.social]]
+    name = "instagram"
+    url = "https://www.instagram.com/buraglio/"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/buraglio"
+
+  [params.style]
+    # Sidebar
+    darkestColor = "#314C59"
+    # Background
+    darkColor = "#253031"
+    # Primary accents
+    primaryColor = "#6EA4BF"
+    # Description
+    lightColor = "#808080"
+    # Title
+    lightestColor = "#fff"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    url = "/about"
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "blog"
+    url = "/posts"
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "tags"
+    url = "/tags"
+
+  [[menu.main]]
+    identifier = "categories"
+    name = "categories"
+    url = "/categories"
+
+[permalinks]
+  posts = "/:year/:month/:title/"
+
+[blackfriday]
+  hrefTargetBlank = true
