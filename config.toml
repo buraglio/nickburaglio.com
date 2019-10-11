@@ -13,11 +13,6 @@ theme = "hugo-sustain"[permalinks]
   Email         = "nick@buraglio.com"
   Twitter       = "forwardingplane"
   LinkedIn      = "buraglio"
-  Telegram      = "buraglio"[[menu.main]]
-#  name = "blog"
-#  weight = 100
-#  identifier = "blog"
-#  url = "/blog/"
 [[menu.main]]
   name = "about"
  identifier = "about"
