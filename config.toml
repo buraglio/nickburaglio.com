@@ -4,39 +4,29 @@ title = "Nick Buraglio......com"
 theme = "ghostwriter"
 disqusShortname = "nickburaglio"
 
-[params]
-  author = "Nick Buraglio"
-  description = "I do stuff with things and sometimes I do things with stuff"
-  GitHubUser = "buraglio"
-
-  [[params.social]]
-    name = "github"
-    url = "https://github.com/buraglio"
-
-  [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/forwardingplane"
-
-  [[params.social]]
-    name = "instagram"
-    url = "https://www.instagram.com/buraglio/"
-
-  [[params.social]]
-    name = "linkedin"
-    url = "https://www.linkedin.com/in/buraglio"
-
-  [params.style]
-    # Sidebar
-    darkestColor = "#314C59"
-    # Background
-    darkColor = "#253031"
-    # Primary accents
-    primaryColor = "#6EA4BF"
-    # Description
-    lightColor = "#808080"
-    # Title
-    lightestColor = "#fff"
-
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "NickBuraglio.com headline"
+    description = "Random junk that updates infrequently"
+    github = "https://github.com/buraglio"
+    linkedin = "https://linkedin.com/in/buraglio/"
+    twitter = "https://twitter.com/forwardingplane"
+    facebook = "https://www.facebook.com/buraglio"
+    email = "my firstname at my lastime dot com
+    opengraph = true
+    shareTwitter = true
+    shareFacebook = true
+    shareLinkedIn = true
+    dateFormat = "Mon, Jan 2, 2006"
+    highlightJsUrl = ""
+    highlightJsLocalUrl = ""
+    exponeaJsUrl = ""
+    exponeaTarget = ""
+    exponeaToken = ""
+    exponeaTrackVisits = false
+    readingTime = true
+    readingTimeText = "Estimated reading time:"
 [menu]
 
   [[menu.main]]
