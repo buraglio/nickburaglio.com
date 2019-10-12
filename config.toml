@@ -7,7 +7,7 @@ disqusShortname = "nickburaglio"
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "NickBuraglio.com headline"
+    headline = "NickBuraglio.com"
     description = "Random junk that updates infrequently"
     github = "https://github.com/buraglio"
     linkedin = "https://linkedin.com/in/buraglio/"
