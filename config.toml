@@ -1,7 +1,7 @@
 baseURL = "https://nickburaglio.com/"
 languageCode = "en-us"
 title = "Nick Buraglio......com"
-theme = "indigo"
+theme = "ghostwriter"
 disqusShortname = "nickburaglio"
 
 [params]
@@ -54,13 +54,6 @@ disqusShortname = "nickburaglio"
     name = "tags"
     url = "/tags"
 
-  [[menu.main]]
-    identifier = "categories"
-    name = "categories"
-    url = "/categories"
-
 [permalinks]
   posts = "/:year/:month/:title/"
 
-[blackfriday]
-  hrefTargetBlank = true
