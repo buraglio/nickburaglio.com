@@ -1,7 +1,7 @@
 baseURL = "https://nickburaglio.com/"
 languageCode = "en-us"
 title = "Nick Buraglio......com"
-theme = "indigo"
+theme = "hugo-minimalist-spa"
 disqusShortname = "nickburaglio"
 
 [Params]
