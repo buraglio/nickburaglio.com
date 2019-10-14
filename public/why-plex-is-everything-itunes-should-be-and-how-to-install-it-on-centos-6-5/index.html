@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
+    <title>Why plex is everything iTunes should be and how to Install it on CentOS 6.5 - Nick Buraglio......com</title>
+
+    <style type="text/css">
+        img.wp-smiley,
+        img.emoji {
+            display: inline !important;
+            border: none !important;
+            box-shadow: none !important;
+            height: 1em !important;
+            width: 1em !important;
+            margin: 0 .07em !important;
+            vertical-align: -0.1em !important;
+            background: none !important;
+            padding: 0 !important;
+        }
+    </style>
+    <link rel='stylesheet' href='https://nickburaglio.com/css/style.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='https://nickburaglio.com/css/custom.css' type='text/css' media='all' />
+        
+</head>
+    <body class="two-column">
+        <a href="#content">Skip to content</a>
+<div class="wrapper">
+    <header role="banner" class="banner widgets columns-1">
+        <a href="/" rel="home">
+            <h1 class="site">Nick Buraglio......com</h1>
+            <p></p>
+        </a>
+        <nav role="navigation" aria-label="Primary Navigation">
+
+            <ul class="menu">
+                <li class="menu-item "><a class="menu__link" href="/about">ABOUT</a></li>
+                <li class="menu-item "><a class="menu__link" href="/posts">POSTS</a></li>
+            </ul>
+            <select onChange="location.href=value;">
+                <option value="/about" class="menu-item menu-item-type-custom menu-item-object-custom" >ABOUT</option>
+                <option value="/posts" class="menu-item menu-item-type-custom menu-item-object-custom" >POSTS</option>
+            </select>
+        </nav>
+    </header>
+
+    <br>
+    <div style="width: 100%; max-height: 100px; text-align: center;">
+       
+</div>
+
+    <div class="breadcrumbs">
+        
+    </div>
+        <div id="content" class="content">
+
+<main role="main">
+    <article role="article" class="post type-post format-standard hentry">
+        <header class="post-header">
+            <h1>Why plex is everything iTunes should be and how to Install it on CentOS 6.5</h1>
+            <div class="post-details">
+                <a rel="bookmark">
+                    <time datetime="2014-01-18T118:455:486">2014-01-18</time>
+                </a>
+				
+<span style="float: right;">
+    <div id="fb-root" style="height: 100%;"></div>
+    
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
+    
+    <div class="fb-share-button" data-href="https://nickburaglio.com/why-plex-is-everything-itunes-should-be-and-how-to-install-it-on-centos-6-5/" data-layout="button_count" data-size="small">
+        <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fnickburaglio.com%2fwhy-plex-is-everything-itunes-should-be-and-how-to-install-it-on-centos-6-5%2f" class="fb-xfbml-parse-ignore">Share</a>
+    </div>
+    &nbsp;
+    <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Why plex is everything iTunes should be and how to Install it on CentOS 6.5" data-url="https://nickburaglio.com/why-plex-is-everything-itunes-should-be-and-how-to-install-it-on-centos-6-5/" data-show-count="false">Tweet</a>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    &nbsp;
+    
+</span>
+
+            </div>
+        </header>
+
+        <div class="post-content">
+            <p>If you&rsquo;re not familiar with <a href="https://plex.tv/">Plex</a>, you should be. It&rsquo;s one of the most flexible, well supported, useful pieces of entertainment software ever written. Oh, and it&rsquo;s open source. That&rsquo;s right, it&rsquo;s free. And it&rsquo;s cross platform. And it will run on just about any device. It&rsquo;s quite amazing, actually. Plex also supports a myriad of <a href="https://plex.tv/features">plugins  and features</a> such as Channels, DLNA and cloud sync as well as the notion of clipping existing videos such as youtube content for display on your television or other devices. This alone makes the package worth setting up. However, it also does some really amazing indexing of your media if it is named correctly.  As an example, I love horror movies, so naturally I have quite a few of them on DVD. Some of them are obscure. With Plex, this is not an issue as long as the movie exists in IMDB (or a few other sources for more obscure or foreign films).  If it does it will pull down all of the metadata on it and display it. Very, very slick:</p>
+
+<p><a href="http://www.nickburaglio.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-18-at-9.29.35-AM.png"><img src="http://www.nickburaglio.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-18-at-9.29.35-AM-1024x398.png" alt="Plex Cemetery Man Image" /></a></p>
+
+<p>Obviously plex is a very versatile application. It has two parts, the client and the server. Personally I have not used the client since the inception of myplex, I pretty much just use a web interface, with the exception of my ipad and iphone, which have a dedicated client. You can also share your plex using myplex, and if you have a plexpass, watched status can be localized to each user. For example, if you share your library with a family member that may no longer be living in your household (say, a college student) when they watch a film it will not show as watched under your particular plex instance unless you have watched it* but will for theirs. This is a nice feature if you&rsquo;re watching TV series or other multi-part shows.  It also allows for media sync when you cannot stream your media.</p>
+
+<p>Plex is all of the things that iTunes should be.</p>
+
+<p>As a breif bit of history, a few years ago I decided that it would be a good idea to digitize my fairly good sized DVD collection like I had done with CDs, records and cassettes for music years before. I had enough disk to hold it and wanted to clear space on some bookshelves.  I bought some rubbermaid tubs and after a long process and some intimate time with <a href="http://handbrake.fr/">Handbrake</a>, I put all of my DVDs in my storage closet in my basement.  Once that digital library was all set up, and since most Blu-Ray combo packs come with a digital copy, I can unquestionably say that this was a good idea.  It&rsquo;s funny, too, since I get a Blu-Ray combo pack, sock away the media and jam a digital copy on my NAS with the other media .</p>
+
+<p>Now, on with the install. I went with CentOS because it&rsquo;s easy to administrate for me.  I don&rsquo;t really know windows well enough to comfortably admin a box anymore and I don&rsquo;t want to spend the extra money on a mac just to run plex. I like to run things on minimalist systems if I can, and Linux is easy enough to tune down to a very small footprint. My plex media server actually runs really well as a VM. Lets assume that you have an already built CentOS 6.5 box. I chose minimalist install but this will work for any install option.</p>
+
+<pre><code>yum -y install wget
+wget http://downloads.plexapp.com/plex-media-server/0.9.8.18.290-11b7fdd \\ 
+/plexmediaserver-0.9.8.18.290-11b7fdd.x86\_64.rpm
+rpm -ivh plexmediaserver-0.9.8.18.290-11b7fdd.x86\_64.rpm 
+yum -y update
+</code></pre>
+
+<p>You should see something like this:</p>
+
+<pre><code>\[root@plex buraglio\]# yum update
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ \* base: centos.sonn.com
+ \* epel: fedora-epel.mirror.iweb.com
+ \* extras: centos.sonn.com
+ \* rpmforge: apt.sw.be
+ \* updates: centos.sonn.com
+PlexRepo                                                 |  951 B     00:00
+PlexRepo/primary                                         | 5.4 kB     00:00
+PlexRepo                                                              12/12
+Setting up Update Process
+No Packages marked for Update
+</code></pre>
+
+<p>Now start Plex Media Server and tell it to start at boot:</p>
+
+<pre><code>service plexmediaserver start
+chkconfig plexmediaserver on
+</code></pre>
+
+<p>Since mine runs internally, I disable iptables all together:</p>
+
+<pre><code>service iptables stop
+service ip6tables stop
+chkconfig iptables off
+chkconfig ip6tables off
+</code></pre>
+
+<p>You can probably also add a rule to allow access [untested by me]</p>
+
+<p>Add IPTables rules:</p>
+
+<pre><code>sudo iptables -I INPUT -p tcp -m state --state NEW -m tcp --dport 32400 -j ACCEPT
+sudo ip6tables -I INPUT -p tcp -m state --state NEW -m tcp --dport 32400 -j ACCEPT  
+service iptables save
+service ip6tables save
+</code></pre>
+
+<p>Although plex does not listen on IPv6, I have it enabled on my network so I’m going to add a rule for it for future use.</p>
+
+<p>Install and enable Avahi for local discovery</p>
+
+<pre><code>yum -y install avahi
+service avahi-daemon start
+chkconfig  avahi-daemon on
+</code></pre>
+
+<p>Now you just need to add your media via the web interface. Point your browser at the plex box: <a href="http://plex:32400/web/index.html">http://plex:32400/web/index.html</a></p>
+
+<p><a href="http://www.nickburaglio.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-18-at-10.32.12-AM.png"><img src="http://www.nickburaglio.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-18-at-10.32.12-AM-300x250.png" alt="Screen Shot 2014-01-18 at 10.32.12 AM" /></a></p>
+
+<p>After a bit plex will scrape all of the metadata from it&rsquo;s sources and you should see a nice display of media detail. This works for Music, TV shows and Movies. It will also happily display photos and home movies. I have mine pointed at my iTunes library and my iPhoto library as well as having 2 dedicated containers for videos I&rsquo;ve purchased like grappling, cycling and skate videos.</p>
+
+<p>If your media exists on mounted drives like mine does, I would also suggest disabling the &ldquo;Empty Trash&rdquo; option in case the drives do not mount or become unavailable (suggestion via <a href="https://plus.google.com/+JamesEyrich">IcePick</a>, who also is the one who introduced me to Plex).</p>
+
+<p><a href="http://www.nickburaglio.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-18-at-10.14.53-AM.png"><img src="http://www.nickburaglio.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-18-at-10.14.53-AM-300x238.png" alt="Screen Shot 2014-01-18 at 10.14.53 AM" /></a></p>
+
+<p>Now you can get the mobile plex for your iPhone, iPad, chromecast, Android device or any number of other devices.  Personally we use a <a href="http://www.roku.com/">Roku</a> with the plex channel but when I&rsquo;m traveling I will often use my iPad as a media player from my hotel room and play my own content directly from my house, sometimes even over a cellular connection if there is spotty wifi.  It&rsquo;s like having netflix with my own content.  Win-Win.</p>
+
+<p>* I have not tested this personally, yet, however, I would encourage anyone to pay for the lifetime <a href="https://plex.tv/subscription/about">plexpass</a>. I plan to do so as soon.</p>
+
+<p>** You may need to <a href="http://www.crypt.gen.nz/selinux/disable_selinux.html">disable selinux</a>.  I do it by default so I can&rsquo;t say if it works with it on or not.</p>
+
+        </div>
+
+        <footer class="post-footer">
+            
+
+            
+            <span class="post-tags">
+                
+                <a href="https://nickburaglio.com/tags/the-firehose" rel="tag">The firehose</a>&emsp;
+                
+            </span>
+            
+        </footer>
+        
+<table cellspacing="15" style="width:100%; border: none;">
+    <tr>
+        <td style="text-align: center; border: none; padding: 0px;">
+        </td>
+        <td style="text-align: center; border: none; padding: 0px;">
+        </td>
+    </tr>
+</table>
+
+        
+    </article>
+
+    
+
+</main>
+
+
+        <div class="sidebar1 widgets columns-1">
+
+    <aside>
+    
+</aside>
+    <aside class="widget widget_categories">
+        <h2></h2>
+        <ul class="widget__list">
+        </ul>
+    </aside>
+
+    <aside class="widget widget_tag_cloud">
+        <h2></h2>
+        <div class="tagcloud"><a class="tag-cloud-link" href="/tags/coffee" title="coffee" style="font-size: 12pt;">Coffee</a>&emsp;<a class="tag-cloud-link" href="/tags/menu-1" title="menu-1" style="font-size: 12pt;">Menu 1</a>&emsp;<a class="tag-cloud-link" href="/tags/review" title="review" style="font-size: 12pt;">Review</a>&emsp;<a class="tag-cloud-link" href="/tags/the-firehose" title="the-firehose" style="font-size: 12pt;">The firehose</a>&emsp;<a class="tag-cloud-link" href="/tags/travel" title="travel" style="font-size: 12pt;">Travel</a>&emsp;
+        </div>
+    </aside>
+
+    <aside class="widget widget_recent_entries">
+        <h2></h2>
+        <ul>
+        </ul>
+    </aside>
+
+    <aside class="widget widget_archive">
+        <h2></h2>
+        <ul>
+        </ul>
+    </aside>
+
+</div>
+        </div>
+        </div>
+<footer role="contentinfo" class="document-footer contentinfo widgets columns-1">
+
+    <aside class="widget widget_text">
+        <div class="textwidget">
+            <p>© Nick Buraglio......com / Powered by <a href="https://gohugo.io" target="_blank">Hugo</a> with theme <a href="https://github.com/tosi29/inkblotty" target="_blank">Inkblotty</a></p>
+        </div>
+    </aside>
+</footer>
+</div>
+
+    </body>
+</html>

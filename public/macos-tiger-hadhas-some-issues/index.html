@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
+    <title>MacOS Tiger had/has some issues - Nick Buraglio......com</title>
+
+    <style type="text/css">
+        img.wp-smiley,
+        img.emoji {
+            display: inline !important;
+            border: none !important;
+            box-shadow: none !important;
+            height: 1em !important;
+            width: 1em !important;
+            margin: 0 .07em !important;
+            vertical-align: -0.1em !important;
+            background: none !important;
+            padding: 0 !important;
+        }
+    </style>
+    <link rel='stylesheet' href='https://nickburaglio.com/css/style.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='https://nickburaglio.com/css/custom.css' type='text/css' media='all' />
+        
+</head>
+    <body class="two-column">
+        <a href="#content">Skip to content</a>
+<div class="wrapper">
+    <header role="banner" class="banner widgets columns-1">
+        <a href="/" rel="home">
+            <h1 class="site">Nick Buraglio......com</h1>
+            <p></p>
+        </a>
+        <nav role="navigation" aria-label="Primary Navigation">
+
+            <ul class="menu">
+                <li class="menu-item "><a class="menu__link" href="/about">ABOUT</a></li>
+                <li class="menu-item "><a class="menu__link" href="/posts">POSTS</a></li>
+            </ul>
+            <select onChange="location.href=value;">
+                <option value="/about" class="menu-item menu-item-type-custom menu-item-object-custom" >ABOUT</option>
+                <option value="/posts" class="menu-item menu-item-type-custom menu-item-object-custom" >POSTS</option>
+            </select>
+        </nav>
+    </header>
+
+    <br>
+    <div style="width: 100%; max-height: 100px; text-align: center;">
+       
+</div>
+
+    <div class="breadcrumbs">
+        
+    </div>
+        <div id="content" class="content">
+
+<main role="main">
+    <article role="article" class="post type-post format-standard hentry">
+        <header class="post-header">
+            <h1>MacOS Tiger had/has some issues</h1>
+            <div class="post-details">
+                <a rel="bookmark">
+                    <time datetime="2005-06-17T617:1243:06">2005-06-17</time>
+                </a>
+				
+<span style="float: right;">
+    <div id="fb-root" style="height: 100%;"></div>
+    
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
+    
+    <div class="fb-share-button" data-href="https://nickburaglio.com/macos-tiger-hadhas-some-issues/" data-layout="button_count" data-size="small">
+        <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fnickburaglio.com%2fmacos-tiger-hadhas-some-issues%2f" class="fb-xfbml-parse-ignore">Share</a>
+    </div>
+    &nbsp;
+    <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="MacOS Tiger had/has some issues" data-url="https://nickburaglio.com/macos-tiger-hadhas-some-issues/" data-show-count="false">Tweet</a>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    &nbsp;
+    
+</span>
+
+            </div>
+        </header>
+
+        <div class="post-content">
+            <p>MacOS Tiger had/has some issues with the Cisco VPN client. It was a widely public fact. I experienced it first hand. But, being that I have admin access on our VPN concentrator I was able to get the newest clients to *kinda* work. There were still a lot of issues with the &ldquo;compatible client&rdquo;. Now that Cisco has released the client version 4.6.04 (0061) it&rsquo;s much better, but sleeping and waking the machine with the client connected yields funkyness, yeah, I know you shouldn&rsquo;t do that anyway, but some do. I forget to disconnect sometimes myself. The best way I&rsquo;ve found to get it to work again is to kill the client, reload the kernel extension and restart the client. Some of this requires Command line work and most people don&rsquo;t really enjoy that (personally I&rsquo;m quite at home on the CLI). To alleviate this, I wrote some simple applescripts that will help automate the reload of the CiscoVPN kernel extension.</p>
+
+<p>Both are fairly simple, the first one requires that your sudoers file<br />
+be set up to not require a password to execute sudo. It will simply<br />
+kill the vpnclient, reload the kext and restart the vpn client.<br />
+The second one does the same thing but will open terminal.app and<br />
+require you to authenticate. It then delays for 10 seconds (to give<br />
+you time to type your pass) and restarts the vpn client.<br />
+They are available <a href="http://buraglio.com/nick/projects/scripts/applescript/">here</a>.</p>
+
+        </div>
+
+        <footer class="post-footer">
+            
+
+            
+            <span class="post-tags">
+                
+                <a href="https://nickburaglio.com/tags/the-firehose" rel="tag">The firehose</a>&emsp;
+                
+            </span>
+            
+        </footer>
+        
+<table cellspacing="15" style="width:100%; border: none;">
+    <tr>
+        <td style="text-align: center; border: none; padding: 0px;">
+        </td>
+        <td style="text-align: center; border: none; padding: 0px;">
+        </td>
+    </tr>
+</table>
+
+        
+    </article>
+
+    
+
+</main>
+
+
+        <div class="sidebar1 widgets columns-1">
+
+    <aside>
+    
+</aside>
+    <aside class="widget widget_categories">
+        <h2></h2>
+        <ul class="widget__list">
+        </ul>
+    </aside>
+
+    <aside class="widget widget_tag_cloud">
+        <h2></h2>
+        <div class="tagcloud"><a class="tag-cloud-link" href="/tags/coffee" title="coffee" style="font-size: 12pt;">Coffee</a>&emsp;<a class="tag-cloud-link" href="/tags/menu-1" title="menu-1" style="font-size: 12pt;">Menu 1</a>&emsp;<a class="tag-cloud-link" href="/tags/review" title="review" style="font-size: 12pt;">Review</a>&emsp;<a class="tag-cloud-link" href="/tags/the-firehose" title="the-firehose" style="font-size: 12pt;">The firehose</a>&emsp;<a class="tag-cloud-link" href="/tags/travel" title="travel" style="font-size: 12pt;">Travel</a>&emsp;
+        </div>
+    </aside>
+
+    <aside class="widget widget_recent_entries">
+        <h2></h2>
+        <ul>
+        </ul>
+    </aside>
+
+    <aside class="widget widget_archive">
+        <h2></h2>
+        <ul>
+        </ul>
+    </aside>
+
+</div>
+        </div>
+        </div>
+<footer role="contentinfo" class="document-footer contentinfo widgets columns-1">
+
+    <aside class="widget widget_text">
+        <div class="textwidget">
+            <p>© Nick Buraglio......com / Powered by <a href="https://gohugo.io" target="_blank">Hugo</a> with theme <a href="https://github.com/tosi29/inkblotty" target="_blank">Inkblotty</a></p>
+        </div>
+    </aside>
+</footer>
+</div>
+
+    </body>
+</html>
