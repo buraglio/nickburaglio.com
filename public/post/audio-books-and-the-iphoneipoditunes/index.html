@@ -1,0 +1,31 @@
+
+	<div id="title@Audio Books and the iPhone/iPod/iTunes">
+
+		
+			<p>I am a fan of audio books since I rarely have time to read any fiction (or even nonfiction) anymore the iPod (and now iPhone) have been a great help in making my time more versatile and allowing me to enjoy some books that I would otherwise not have time to enjoy.<br />
+The biggest limitation that I have run into is that iTunes (and by nature the iPod/iPhone) doesn&rsquo;t play as nicely as I think it should with mp3 files as it does with it&rsquo;s m4b, the format it uses for audio books, and many of the <a href="http://tinyurl.com/6h5br9">free audio books</a> come as mp3 format. With the m4b format you can get playback from the &ldquo;bookmarking&rdquo; of where the file was last played from. More info on the file format can be found <a href="http://en.wikipedia.org/wiki/MP4">here</a>.<br />
+So, as I found, there are many ways to do this. Being a command line junkie like I am, I was obviously searching for a way to just get this done under terminal on my mac.<br />
+I came across <a href="http://polyphase.ca/archives/2004/11/30/homegrown-audio-books-and-ipod/">this page</a> which had a few ways to do it and found that the easiest way (for me) was just to use the command<br />
+<code>
+mpg123 -s /path/to/file/audiobook.mp3 |faac -b 80 -P -X -w -o /path/to/output/file/audiobook.m4b -  
+</code><br />
+which works perfect, the file can be added directly into itunes&hellip;&hellip;assuming you have all of the binaries installed to make it happen (I didn&rsquo;t but it was easy enough to get installed).<br />
+For anyone that *doesn&rsquo;t* have them installed, I <strong>highly</strong> suggest installing <a href="http://www.macports.org/">MacPorts</a>. Once you have MacPorts installed (the <a href="http://www.macports.org/install.php">instructions</a> are very easy and it&rsquo;s fairly painless to install), you&rsquo;ll need to install mpg123 and faac.<br />
+To accomplish this open terminal and type</p>
+
+<p><code>sudo port install faac</code></p>
+
+<p>and</p>
+
+<p><code>sudo port install mpg123</code></p>
+
+<p>There will be a bunch of text across the screen as each program is built and it may take some time based on your machine speed.<br />
+After those are installed, run the command above and you should have your audio book.<br />
+Your output should be something like this:<br />
+<img src="http://buraglio.com/nick/gallery2/d/10762-1/m4bcreate.png" alt="m4b creation" /></p>
+
+<p>Now just double click the file and iTunes should do the right thing and put it right into your Audio Books play list.</p>
+
+		
+	
+	</div>

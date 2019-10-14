@@ -1,0 +1,16 @@
+
+	<div id="title@Scanning a Plex library manually">
+
+		
+			<p>I recently had a weird problem with my plex media server in that it would crash upon trying to scan my library.  After a great deal of debugging, I finally found what the problem was (a file that was named in such a way that it caused the scanner to crash).  <a href="http://www.nickburaglio.com/wp-content/uploads/2014/03/prom-scan.jpg"><img src="http://www.nickburaglio.com/wp-content/uploads/2014/03/prom-scan.jpg" alt="prom-scan" /></a>In order to debug this problem, though, I came across some great under-the-hood tools within plex (which is all python, very cool).  After reading <a href="https://plexapp.zendesk.com/hc/en-us/articles/201242707-Plex-Media-Scanner-via-Command-Line">this link</a>, I moved all of my Movies out of the main folder.  At that point I moved the files back in, one letter at a time. My Plex server is a <a href="http://www.nickburaglio.com/2014/01/18/why-plex-is-everything-itunes-should-be-and-how-to-install-it-on-centos-6-5/" title="Why plex is everything iTunes should be and how to Install it on CentOS 6.5">CentOS 6.5</a> VM that mounts a <a href="http://www.forwardingplane.net/2014/03/replace-zfs-raidz1-disk/">ZFS NAS</a>. I moved the files one starting letter at at time```
+mv -v /path/to/src/A* /path/to/dest/</p>
+
+<pre><code class="language-Once">sudo su - plex -c &quot;export LD\_LIBRARY\_PATH=/usr/lib/plexmediaserver; \\\\
+/usr/lib/plexmediaserver/Plex\\ Media\\ Scanner -h&quot;
+</code></pre>
+
+<p>Thankfully, the <a href="https://plex.tv/">plex platform</a> is really well documented and has a great community around it, so searching for the errors I was seeing led me down the right path to solving the issue.  I&rsquo;m still not sure what caused the file names to become corrupt or unhappy, but I suspect that it had to do with the <a href="http://www.forwardingplane.net/2014/03/replace-zfs-raidz1-disk/">disk failure I had in my ZFS raid</a>.</p>
+
+		
+	
+	</div>
