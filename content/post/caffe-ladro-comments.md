@@ -1,0 +1,178 @@
+---
+title: 'Caffe Ladro'
+date: Mon, 05 Sep 2011 14:30:00 +0000
+draft: false
+tags: [The firehose]
+---
+
+
+#### 
+[Hey Joe brewing coffee mug; the heating, brewing travel mug for serious coffee drinkers](http://www.nickburaglio.com/2014/06/05/hey-joe-brewing-coffee-mug/ "") - <time datetime="2014-06-05 19:49:10">Jun 4, 2014</time>
+
+\[…\] of a coffee nut. I love good, high quality coffee. I’ve written about it many, many, many, many times.   In fact, I have a hard time getting going before coffee in the mornings, having been a \[…\]
+<hr />
+#### 
+[Salina Pallerino](https://bzp65.com/카지노사이트 "Jaradat@gmail.com") - <time datetime="2018-08-12 20:56:30">Aug 0, 2018</time>
+
+I like the helpful info you provide in your articles. I will bookmark your weblog and check again here regularly. https://bzp65.com/
+<hr />
+#### 
+[Booker Stalter](https://bzp65.com/우리카지노 "leick@gmail.com") - <time datetime="2018-08-13 10:14:42">Aug 1, 2018</time>
+
+I’m quite certain I’ll learn lots of new stuff right https://bzp65.com/
+<hr />
+#### 
+[India Lieblong](https://bzp65.com/33카지노 "steider@gmail.com") - <time datetime="2018-08-14 02:00:52">Aug 2, 2018</time>
+
+Black on black in the Charger I'm creepin' Rub me the right way, you might get a genie B.o.B, black Houdini https://bzp65.com/
+<hr />
+#### 
+[Nathanael Gellespie](https://bzp65.com/카지노주소 "brobeck@gmail.com") - <time datetime="2018-08-14 18:25:31">Aug 2, 2018</time>
+
+Don’t wear seat belts lest you drown in you own urine? https://bzp65.com/
+<hr />
+#### 
+[Vicente Huttman](https://bzp65.com/슈퍼카지노 "labier@gmail.com") - <time datetime="2018-08-15 04:20:25">Aug 3, 2018</time>
+
+Black on black in the Charger I'm creepin' Rub me the right way, you might get a genie B.o.B, black Houdini https://bzp65.com/
+<hr />
+#### 
+[Candra Sandino](https://bzp65.com/개츠비카지노 "grivas@gmail.com") - <time datetime="2018-08-15 18:42:03">Aug 3, 2018</time>
+
+Awesome! Its in fact amazing paragraph, I have got much clear idea regarding from this piece of https://bzp65.com/
+<hr />
+#### 
+[Gene Farwick](https://bzp65.com/개츠비카지노 "bretz@gmail.com") - <time datetime="2018-08-17 04:07:24">Aug 5, 2018</time>
+
+sound like you know what you?re talking about! Thanks https://php665.com/
+<hr />
+#### 
+[Sheldon Casuat](https://bzp65.com/개츠비카지노 "quint@gmail.com") - <time datetime="2018-08-17 04:09:57">Aug 5, 2018</time>
+
+Black on black in the Charger I'm creepin' Rub me the right way, you might get a genie B.o.B, black Houdini https://bzp65.com/
+<hr />
+#### 
+[Luz Biggerstaff](https://gatsby.newone2017.com "neloms@gmail.com") - <time datetime="2018-08-19 23:13:32">Aug 0, 2018</time>
+
+Awesome! Its in fact amazing paragraph, I have got much clear idea regarding from this piece of https://php665.com/
+<hr />
+#### 
+[Merlin Willcoxon](https://gatsby.newone2017.com "vonfeldt@gmail.com") - <time datetime="2018-08-19 23:31:11">Aug 0, 2018</time>
+
+Awesome! Its in fact amazing paragraph, I have got much clear idea regarding from this piece of https://php665.com/
+<hr />
+#### 
+[Roseann Wend](https://gatsby.newone2017.com "grills@gmail.com") - <time datetime="2018-08-19 23:41:50">Aug 0, 2018</time>
+
+sound like you know what you?re talking about! Thanks https://bzp65.com/
+<hr />
+#### 
+[Gregorio Lapete](https://miso7700.com/yong684/ "foslien@gmail.com") - <time datetime="2018-09-18 22:35:01">Sep 2, 2018</time>
+
+Don’t wear seat belts lest you drown in you own urine?
+<hr />
+#### 
+[ujuyuou](http://theprettyguineapig.com/amoxicillin/ "ahlijiw@curletter.com") - <time datetime="2019-04-19 04:21:36">Apr 5, 2019</time>
+
+http://theprettyguineapig.com/amoxicillin/ - Amoxicillin 500mg Capsules [Amoxicillin 500mg Capsules For Sale](http://theprettyguineapig.com/amoxicillin/) jyh.lqse.nickburaglio.com.jfg.hv http://theprettyguineapig.com/amoxicillin/
+<hr />
+#### 
+[ezeliqu](http://theprettyguineapig.com/amoxicillin/ "wxiquji@curletter.com") - <time datetime="2019-04-19 04:51:56">Apr 5, 2019</time>
+
+http://theprettyguineapig.com/amoxicillin/ - Amoxil [Amoxicillin Without Prescription](http://theprettyguineapig.com/amoxicillin/) ndf.sphl.nickburaglio.com.nkk.od http://theprettyguineapig.com/amoxicillin/
+<hr />
+#### 
+[okfuqucuv](http://theprettyguineapig.com/amoxicillin/ "ekcubapu@curletter.com") - <time datetime="2019-04-19 05:17:21">Apr 5, 2019</time>
+
+http://theprettyguineapig.com/amoxicillin/ - Amoxicillin 500 Mg [Buy Amoxicillin Online](http://theprettyguineapig.com/amoxicillin/) ngt.balu.nickburaglio.com.psd.dy http://theprettyguineapig.com/amoxicillin/
+<hr />
+#### 
+[opiyicl](http://theprettyguineapig.com/amoxicillin/ "atlpuc@curletter.com") - <time datetime="2019-04-19 05:47:38">Apr 5, 2019</time>
+
+http://theprettyguineapig.com/amoxicillin/ - Buy Amoxicillin Online [Amoxicillin Online](http://theprettyguineapig.com/amoxicillin/) aqx.hwnn.nickburaglio.com.ipz.ni http://theprettyguineapig.com/amoxicillin/
+<hr />
+#### 
+[Preston Quercioli](http://WWW.BIBLEFREEDOM.COM "Arenz33091@gmail.com") - <time datetime="2019-04-21 01:46:13">Apr 0, 2019</time>
+
+Hey, how's it going? I want to pass along some very important news that everyone needs to hear! In December of 2017, Donald Trump made history by recognizing Jerusalem as the captial of Israel. Why is this big news? Because by this the Jewish people of Israel are now able to press forward in bringing about the Third Temple prophesied in the Bible. Jewish Rabbis have publicly announced that their Messiah will be revealed in the coming years who will be a leader and spiritual guide to all nations, gathering all religions under the worship of one God. They deny Jesus as their Messiah, and the Bible tells us this Jewish Messiah will be the counterfiet that will bring about a false peace, and ultimatley the great tribulation. They even printed a coin to raise money for the Temple with Donald Trumps face on the front and with king Cyrus'(who built the second Temple) behind him. On the back of the coin is an image of the third Temple. More importantly, the power that runs the world wants to put a RFID microchip in our body making us total slaves to them. This chip matches perfectly with the Mark of the Beast in the Bible, more specifically in Revelation 13:16-18: "He causes all, both small and great, rich and poor, free and slave, to receive a mark on their right hand or on their foreheads, and that no one may buy or sell except one who has the mark or the name of the beast, or the number of his name. Here is wisdom. Let him who has understanding calculate the number of the beast, for it is the number of a man: His number is 666." Referring to the last days, this could only be speaking of a cashless society, which we have yet to see, but are heading towards. Otherwise, we could still buy or sell without the mark amongst others if physical money was still currency. This Mark couldn't be spiritual because the word references two different physical locations. If it was spiritual it would just say in the forehead. RFID microchip implant technology will be the future of a one world cashless society containing digital currency. It will be implanted in the right-hand or the forehead, and we cannot buy or sell without it! We must grow strong in Jesus. AT ALL COSTS, DO NOT TAKE IT! "Then a third angel followed them, saying with a loud voice, “If anyone worships the beast and his image, and receives his mark on his forehead or on his hand, he himself shall also drink of the wine of the wrath of God, which is poured out full strength into the cup of His indignation. He shall be tormented with fire and brimstone in the presence of the holy angels and in the presence of the Lamb. And the smoke of their torment ascends forever and ever; and they have no rest day or night, who worship the beast and his image, and whoever receives the mark of his name” (Revelation 14:9-11). People have been saying the end is coming for many years, but we needed two key things. One, the Third Temple, and two, the technology for a cashless society to fulfill the prophecy of the Mark of the Beast. Visit WWW.BIBLEFREEDOM.COM to see proof for these things and much more! If you haven't already, it is time to seek God with all your heart. Jesus loves you more than you could imagine. He wants to have a relationship with you and redeem you from your sins. Turn to Him and repent while there is still hope! God bless!
+<hr />
+#### 
+[Emmanuel Love](http://WWW.BIBLEFREEDOM.COM "emmaloveabove0859@gmail.com") - <time datetime="2019-05-18 03:31:03">May 6, 2019</time>
+
+Hey, how's it going? I want to pass along some very important news that everyone needs to hear! In December of 2017, Donald Trump made history by recognizing Jerusalem as the capital of Israel. Why is this big news? Because by this the Jewish people of Israel are now able to press forward in bringing about the Third Temple prophesied in the Bible. Jewish Rabbis have publicly announced that their Messiah will be revealed in the coming years who will be a leader and spiritual guide to all nations, gathering all religions under the worship of one God. Biblical prophecy tells us that this Jewish Messiah who will take the stage will be the antichrist "who opposes and exalts himself above all that is called God or that is worshiped, so that he sits as God in the temple of God, showing himself that he is God" (2 Thessalonians 2:4). For a time he will bring about a false peace, but "Therefore when you see the ‘abomination of desolation,’ spoken of by Daniel the prophet, standing in the holy place (Matthew 24:15)...then there will be great tribulation, such as has not been since the beginning of the world until this time, no, nor ever shall be" (Matthew 24:21). More importantly, the power that runs the world wants to put a RFID microchip in our body making us total slaves to them. This chip matches perfectly with the Mark of the Beast in the Bible, more specifically in Revelation 13:16-18: "He causes all, both small and great, rich and poor, free and slave, to receive a mark on their right hand or on their foreheads, and that no one may buy or sell except one who has the mark or the name of the beast, or the number of his name. Here is wisdom. Let him who has understanding calculate the number of the beast, for it is the number of a man: His number is 666." Referring to the last days, this could only be speaking of a cashless society, which we have yet to see, but are heading towards. Otherwise, we could still buy or sell without the mark amongst others if physical money was still currency. This Mark couldn't be spiritual because the word references two different physical locations. If it was spiritual it would just say in the forehead. RFID microchip implant technology will be the future of a one world cashless society containing digital currency. It will be implanted in the right-hand or the forehead, and we cannot buy or sell without it. Revelation 13:11-18 tells us that a false prophet will arise on the world scene doing miracles before men, deceiving them to receive this Mark. Do not be deceived! We must grow strong in Jesus. AT ALL COSTS, DO NOT TAKE IT! "Then a third angel followed them, saying with a loud voice, “If anyone worships the beast and his image, and receives his mark on his forehead or on his hand, he himself shall also drink of the wine of the wrath of God, which is poured out full strength into the cup of His indignation. He shall be tormented with fire and brimstone in the presence of the holy angels and in the presence of the Lamb. And the smoke of their torment ascends forever and ever; and they have no rest day or night, who worship the beast and his image, and whoever receives the mark of his name” (Revelation 14:9-11). People have been saying the end is coming for many years, but we needed two key things. One, the Third Temple, and two, the technology for a cashless society to fulfill the prophecy of the Mark of the Beast. Visit WWW.BIBLEFREEDOM.COM to see proof for these things and why the Bible truly is the word of God! If you haven't already, it is time to seek God with all your heart. Jesus loves you more than you could imagine. He wants to have a relationship with you and redeem you from your sins. Turn to Him and repent while there is still hope! This is forever...God bless! "EITHER HUMAN INTELLIGENCE ULTIMATELY OWES ITS ORIGIN TO MINDLESS MATTER OR THERE IS A CREATOR..." - JOHN LENNOX We all know God exists. Why? Because without Him, we couldn't prove anything at all. Do we live our lives as if we cannot know anything? No. So why is God necessary? In order to know anything for certain, you would have to know everything, or have revelation from somebody who does. Who is capable of knowing everything? God. So to know anything, you would have to be God, or know God. A worldview without God cannot account for the uniformity and intelligibility of nature. And why is it that we can even reason that God is the best explanation for this if there is no God? We are given reason to know or reject God, but never to know that He does not exist. It has been calculated by Roger Penrose that the odds of the initial conditions for the big bang to produce the universe that we see to be a number so big, that we could put a zero on every particle in the universe, and even that would not be enough to use every zero. What are the odds that God created the universe? Odds are no such thing. Who of you would gamble your life on one coin flip? Is there evidence that the Bible is the truth? Yes. Did you know that the creation accounts listed in the book of Genesis are not only all correct, but are also in the correct chronological order? That the Bible doesn't say the Earth was formed in six 24-hour days but rather six long but finite periods of time? That the Bible makes 10 times more creation claims than all major "holy" books combined with no contradictions, while these other books have errors in them? The Bible stood alone by concurring with the big bang saying, "In the beginning God created the heaven and the earth" (Genesis 1:1); and says our universe is expanding, thousands of years before scientists discovered these things. Watch a potential life-changing video on the website listed below with Astronomer(PhD) Hugh Ross explaining all these facts based on published scientific data. He has authored many books, backed even by atheist scientists. Jesus came to pay a debt that we could not; to be our legal justifier to reconcile us back to a Holy God; only if we are willing to receive Him: "For the wages of sin is death..." (Romans 6:23). God so loved the world that He gave us His only begotten son, so that whoever believes in Him, through faith, shall not perish, but have everlasting life. Jesus says if we wish to enter into life to keep the commands! The two greatest commands are to love God with all your heart, soul, strength, and mind; and your neighbor as yourself. All the law hang on these commands. We must be born of and lead by the Holy Spirit, to be called children of God, to inherit the kingdom. If we are willing to humble ourselves in prayer to Jesus, to confess and forsake our sins, He is willing to give the Holy Spirit to those who keep asking of Him; giving us a new heart, leading us into all truth! Jesus came to free us from the bondage of sin. The everlasting fire was prepared for the devil and his angels due to disobedience to God's law. If we do the same, what makes us any different than the devil? Jesus says unless we repent, we shall perish. For sin is the transgression of the law. We must walk in the Spirit so we may not fulfill the lusts of the flesh, being hatred, fornication, drunkenness and the like. Whoever practices such things will not inherit the kingdom (Galatians 5:16-26). If we sin, we may come before Jesus to ask for forgiveness (1 John 2:1-2). Evil thoughts are not sins, but rather temptations. It is not until these thoughts conceive and give birth by our own desires that they become sin (James 1:12-15). When we sin, we become in the likeness of the devil's image, for he who sins is of the devil (1 John 3:8); but if we obey Jesus, in the image of God. For without holiness, we shall not see the Lord (Hebrews 12:14). The oldest religion in the world is holiness through faith (James 1:27). What religion did Adam and Eve follow before the fall? Jesus, Who became the last Adam, what religion does He follow? Is He not holy? He never told us to follow the rituals and traditions of man but to take up our cross and follow Him (Luke 9:23). There are many false doctrines being taught leading people astray. This is why we need the Holy Spirit for discernment. Unlike religion, holiness cannot be created. It is given to us from above by the baptism of the Spirit. Jesus is more than a religion; He is about having a personal relationship with the Father. Start by reading the Gospel of Matthew, to hear the words of God, to know His character and commandments. Follow and obey Jesus, for He is the way, the truth, and the life!
+<hr />
+#### 
+[iciwoixlewok](http://mewkid.net/buy-amoxicillin/ "hawiwa@rr.manidn.com") - <time datetime="2019-05-21 18:47:47">May 2, 2019</time>
+
+http://mewkid.net/buy-amoxicillin/ - Brand Amoxil [Amoxicillin 500mg](http://mewkid.net/buy-amoxicillin/) les.ykea.nickburaglio.com.gxw.qp http://mewkid.net/buy-amoxicillin/
+<hr />
+#### 
+[uzimjoxope](http://mewkid.net/buy-amoxicillin/ "emoibo@rr.manidn.com") - <time datetime="2019-06-14 09:00:40">Jun 5, 2019</time>
+
+http://mewkid.net/buy-amoxicillin/ - Buy Amoxicillin Online [Buy Amoxicillin Online](http://mewkid.net/buy-amoxicillin/) nvi.ntef.nickburaglio.com.asy.qg http://mewkid.net/buy-amoxicillin/
+<hr />
+#### 
+[ecodisiat](http://mewkid.net/buy-amoxicillin/ "udeudvub@rr.manidn.com") - <time datetime="2019-06-14 09:36:59">Jun 5, 2019</time>
+
+http://mewkid.net/buy-amoxicillin/ - Buy Amoxicillin Online [Amoxicillin Without Prescription](http://mewkid.net/buy-amoxicillin/) cjd.yfde.nickburaglio.com.ehq.tx http://mewkid.net/buy-amoxicillin/
+<hr />
+#### 
+[iyegogazozis](http://mewkid.net/buy-amoxicillin/ "gozufe@email.namnerbca.com") - <time datetime="2019-06-19 05:26:56">Jun 3, 2019</time>
+
+http://mewkid.net/buy-amoxicillin/ - Amoxicillin 500 Mg [Amoxicillin Online](http://mewkid.net/buy-amoxicillin/) vai.mwqf.nickburaglio.com.nlp.cc http://mewkid.net/buy-amoxicillin/
+<hr />
+#### 
+[usijadegi](http://mewkid.net/buy-amoxicillin/ "ofuqoa@email.namnerbca.com") - <time datetime="2019-06-19 05:51:34">Jun 3, 2019</time>
+
+http://mewkid.net/buy-amoxicillin/ - Amoxicillin Online [Buy Amoxicillin](http://mewkid.net/buy-amoxicillin/) mlg.zdsf.nickburaglio.com.ppu.jj http://mewkid.net/buy-amoxicillin/
+<hr />
+#### 
+[adaniilite](http://mewkid.net/buy-amoxicillin/ "iebira@eqdumail.com") - <time datetime="2019-07-10 10:27:49">Jul 3, 2019</time>
+
+http://mewkid.net/buy-amoxicillin/ - Amoxicillin 500 Mg [Amoxicillin 500mg Capsules](http://mewkid.net/buy-amoxicillin/) zzq.azcz.nickburaglio.com.tqd.fm http://mewkid.net/buy-amoxicillin/
+<hr />
+#### 
+[ojetacic](http://mewkid.net/order-amoxicillin/ "anujadim@rr.manidn.com") - <time datetime="2019-07-20 11:54:03">Jul 6, 2019</time>
+
+http://mewkid.net/order-amoxicillin/ - Amoxicillin 500mg [Amoxicilline 500 Mg Online](http://mewkid.net/order-amoxicillin/) laa.hkuj.nickburaglio.com.vuc.nm http://mewkid.net/order-amoxicillin/
+<hr />
+#### 
+[eluajeyehaki](http://mewkid.net/order-amoxicillin/ "iabaruk@fdfdf.namnerbca.com") - <time datetime="2019-08-06 01:55:59">Aug 2, 2019</time>
+
+http://mewkid.net/order-amoxicillin/ - Amoxicillin [18](http://mewkid.net/order-amoxicillin/) pgn.tqov.nickburaglio.com.yuh.dc http://mewkid.net/order-amoxicillin/
+<hr />
+#### 
+[ohupuwan](http://mewkid.net/order-amoxicillin/ "urasoamo@fdfdf.namnerbca.com") - <time datetime="2019-08-06 02:28:10">Aug 2, 2019</time>
+
+http://mewkid.net/order-amoxicillin/ - Amoxicillin [Amoxil](http://mewkid.net/order-amoxicillin/) grn.xsrn.nickburaglio.com.vjl.qk http://mewkid.net/order-amoxicillin/
+<hr />
+#### 
+[kocovuv](http://mewkid.net/order-amoxicillin/ "elaoik@fdfdf.namnerbca.com") - <time datetime="2019-08-07 21:01:14">Aug 3, 2019</time>
+
+http://mewkid.net/order-amoxicillin/ - Amoxicillin 500mg [Amoxicillin 500 Mg](http://mewkid.net/order-amoxicillin/) egq.pujm.nickburaglio.com.voj.uu http://mewkid.net/order-amoxicillin/
+<hr />
+#### 
+[okiufned](http://mewkid.net/order-amoxicillin/ "opifolabu@fdfdf.namnerbca.com") - <time datetime="2019-08-07 21:31:23">Aug 3, 2019</time>
+
+http://mewkid.net/order-amoxicillin/ - Buy Amoxicillin [Amoxicillin 500mg](http://mewkid.net/order-amoxicillin/) yjj.mqvm.nickburaglio.com.cmm.bv http://mewkid.net/order-amoxicillin/
+<hr />
+#### 
+[academojavlac](http://mewkid.net/order-amoxicillin/ "omazbeuot@eerr.namnerbca.com") - <time datetime="2019-08-12 21:39:24">Aug 1, 2019</time>
+
+http://mewkid.net/order-amoxicillin/ - Buy Amoxicillin [Amoxicillin - Prix.achetercommander.fr](http://mewkid.net/order-amoxicillin/) clc.jklf.nickburaglio.com.krm.mo http://mewkid.net/order-amoxicillin/
+<hr />
+#### 
+[alolabi](http://mewkid.net/order-amoxicillin/ "uzuyuv@eerr.namnerbca.com") - <time datetime="2019-08-12 22:06:04">Aug 1, 2019</time>
+
+http://mewkid.net/order-amoxicillin/ - Buy Amoxicillin Online [Amoxicillin 500mg Capsules](http://mewkid.net/order-amoxicillin/) qrz.flxa.nickburaglio.com.pml.ki http://mewkid.net/order-amoxicillin/
+<hr />
+#### 
+[owezedaweho](http://mewkid.net/order-amoxicillin/ "utiqedu@email.namnerbca.com") - <time datetime="2019-08-19 03:24:40">Aug 1, 2019</time>
+
+http://mewkid.net/order-amoxicillin/ - Buy Amoxicillin Online [Amoxicillin 500mg Capsules](http://mewkid.net/order-amoxicillin/) awh.thuh.nickburaglio.com.ywy.zs http://mewkid.net/order-amoxicillin/
+<hr />
+#### 
+[obijeqivref](http://mewkid.net/order-amoxicillin/ "ubehoa@email.namnerbca.com") - <time datetime="2019-08-19 03:41:15">Aug 1, 2019</time>
+
+http://mewkid.net/order-amoxicillin/ - Amoxicillin [Buy Amoxicillin Online](http://mewkid.net/order-amoxicillin/) qiv.xpmn.nickburaglio.com.zhb.lo http://mewkid.net/order-amoxicillin/
+<hr />
