@@ -36,8 +36,8 @@ disqusShortname = "nickburaglio"
 
   [[menu.main]]
     identifier = "post"
-    name = "posts"
-    url = "/posts"
+    name = "post"
+    url = "/post"
 
 [permalinks]
   posts = "/:year/:month/:title/"
