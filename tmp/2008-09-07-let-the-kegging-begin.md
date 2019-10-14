@@ -1,0 +1,22 @@
+---
+title: Let the kegging begin!
+author: buraglio
+type: post
+date: 2008-09-07T10:55:00+00:00
+url: /2008/09/07/let-the-kegging-begin/
+blogger_blog:
+  - www.nickburaglio.com
+blogger_author:
+  - Nick Buraglio
+blogger_permalink:
+  - /2008/09/let-kegging-begin.html
+categories:
+  - The firehose
+
+---
+I got my keg order in and it looks like I can fit 2 kegs plus a co2 dispenser in the beer fridge. The local homebrew club got such a great deal on the kegs that I decided to put off switching to all grain and spend the money on a kegging system. I was able to get five used 5 gallon kegs plus new seals for $80 through our local club (we did a huge order).   
+<img src="http://buraglio.com/nick/gallery2/d/10502-1/linkitem4757.jpg?g2_GALLERYSID=5c782b717f73263430b6cb7d97abc784" alt="kegs" width="500" height="400" />
+
+I&#8217;m pretty excited. I think I&#8217;ll put my oktoberfest in there if I can get the co2 in time. 
+
+Let the kegging begin!

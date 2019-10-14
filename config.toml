@@ -36,13 +36,13 @@ disqusShortname = "nickburaglio"
 
   [[menu.main]]
     identifier = "posts"
-    name = "blog"
+    name = "posts"
     url = "/posts"
 
-  [[menu.main]]
-    identifier = "tags"
-    name = "tags"
-    url = "/tags"
+#  [[menu.main]]
+#    identifier = "tags"
+#    name = "tags"
+#    url = "/tags"
 
 [permalinks]
   posts = "/:year/:month/:title/"
