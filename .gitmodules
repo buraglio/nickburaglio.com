@@ -1,9 +1,6 @@
 [submodule "themes/mero"]
 	path = themes/mero
 	url = https://github.com/darshanbaral/mero
-[submodule "themes//Midnight"]
-	path = themes/Midnight
-	url = https://gitlab.com/BluestNight/Midnight
 [submodule "themes/indigo"]
 	path = themes/indigo
 	url = https://github.com/AngeloStavrow/indigo
