@@ -5,13 +5,14 @@
 <p>
     Random junk that updates infrequently.  <a href="about/">(more)</a>
 </p>
+<p>This site is maintained only for self-aggrandizing historical purposes. It's unlikely I'll add much, and the conversion from a very old WordPress site to this Markdown format was less than perfect. There are probably some missing posts, particularly post-2020, but they're likely not worth reading anyway. There are definitely posts with cut off content because migrating from Wordpress to Markdown is....."complicated".</p>
 <br/>
 
 <h1>Latest posts</h1>
 
 <div class="posts-list">
 {{ with .Site.GetPage "/post" }}
-    {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+    {{ range first 0 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
         <div class="post">
             <p>
                 <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
@@ -23,20 +24,5 @@
 {{ end }}
 </div>
 
-<h1>Latest photos</h1>
-
-<div class="image-grid">
-{{ with .Site.GetPage "/photos" }}
-    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
-        <a href="{{ .Permalink }}" title="{{ .Title }}">
-        {{ $image := .Page.Resources.GetMatch .Params.image }}
-        {{ with $image }}
-            {{ $thumb := .Resize "400x" }}
-            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
-        {{end}}
-        </a>
-    {{ end }}
-{{ end }}
-</div>
 
 {{ end }}
