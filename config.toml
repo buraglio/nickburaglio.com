@@ -5,24 +5,11 @@ theme = "hugo-theme-console"
 disqusShortname = "nickburaglio"
 
 [Params]
-    mainSections = ["post"]
-    intro = true
     headline = "NickBuraglio.com"
     description = "Random junk that updates infrequently"
     github = "https://github.com/buraglio"
     linkedin = "https://linkedin.com/in/buraglio/"
     email = "my firstname at my lastime dot com"
-    opengraph = true
-    shareLinkedIn = true
-    dateFormat = "Mon, Jan 2, 2006"
-    highlightJsUrl = ""
-    highlightJsLocalUrl = ""
-    exponeaJsUrl = ""
-    exponeaTarget = ""
-    exponeaToken = ""
-    exponeaTrackVisits = false
-    readingTime = true
-    readingTimeText = "Estimated reading time:"
 
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
