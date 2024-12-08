@@ -1,15 +1,9 @@
-[submodule "themes/mero"]
-	path = themes/mero
-	url = https://github.com/darshanbaral/mero
 [submodule "themes/indigo"]
 	path = themes/indigo
 	url = https://github.com/AngeloStavrow/indigo
 [submodule "themes/hugo-minimalist-spa"]
 	path = themes/hugo-minimalist-spa
 	url = https://github.com/Sag-Dev/hugo-minimalist-spa.git
-[submodule "themes/inkblotty"]
-	path = themes/inkblotty
-	url = https://github.com/tosi29/inkblotty.git
 [submodule "themes/archie"]
 	path = themes/archie
 	url = https://github.com/athul/archie.git
