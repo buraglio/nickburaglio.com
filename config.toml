@@ -36,12 +36,9 @@ disqusShortname = "nickburaglio"
   url = "about/"
 
   [[params.navlinks]]
-  name = "posts/"
-  url = "posts/"
-  
-  [[params.navlinks]]
-  name = "photos/"
-  url = "photos/"
+  name = "post/"
+  url = "post/"
+
 
 
 [permalinks]
