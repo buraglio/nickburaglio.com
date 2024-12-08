@@ -11,12 +11,8 @@ disqusShortname = "nickburaglio"
     description = "Random junk that updates infrequently"
     github = "https://github.com/buraglio"
     linkedin = "https://linkedin.com/in/buraglio/"
-    twitter = "https://twitter.com/forwardingplane"
-    facebook = "https://www.facebook.com/buraglio"
     email = "my firstname at my lastime dot com"
     opengraph = true
-    shareTwitter = true
-    shareFacebook = true
     shareLinkedIn = true
     dateFormat = "Mon, Jan 2, 2006"
     highlightJsUrl = ""
@@ -27,17 +23,26 @@ disqusShortname = "nickburaglio"
     exponeaTrackVisits = false
     readingTime = true
     readingTimeText = "Estimated reading time:"
-[menu]
 
-  [[menu.main]]
-    identifier = "about"
-    name = "about"
-    url = "/about"
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = true
 
-  [[menu.main]]
-    identifier = "post"
-    name = "post"
-    url = "/post"
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animated zoomIn fast" 
+
+  [[params.navlinks]]
+  name = "about/"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "posts/"
+  url = "posts/"
+  
+  [[params.navlinks]]
+  name = "photos/"
+  url = "photos/"
+
 
 [permalinks]
   posts = "/:year/:month/:title/"
