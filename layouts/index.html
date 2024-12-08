@@ -1,14 +1,18 @@
 {{ define "main" }}
 
-<h1>About</h1>
+<h1>Content</h1>
 
 <p>
-    Random junk that updates infrequently.  <a href="about/">(more)</a>
+    Random junk that updates infrequently. 
 </p>
 <p>This site is maintained only for self-aggrandizing historical purposes. It's unlikely I'll add much, and the conversion from a very old WordPress site to this Markdown format was less than perfect. There are probably some missing posts, particularly post-2020, but they're likely not worth reading anyway. There are definitely posts with cut off content because migrating from Wordpress to Markdown is....."complicated".</p>
 <br/>
 
-<h1>Latest posts</h1>
+<h1><a href="post/">Latest posts</a></h1>
+
+<h1><a href="about/">About</a></h1>
+
+<h1><a href="https://github.com/buraglio/resume">Resume</a></h1>
 
 <div class="posts-list">
 {{ with .Site.GetPage "/post" }}
