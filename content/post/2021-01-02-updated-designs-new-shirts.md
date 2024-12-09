@@ -14,4 +14,6 @@ categories:
 
 Continuing along the path of learning and creating things I like, usually obscure, generally related to movies or TV. I have added a few more shirts to the [TeePublic](https://www.teepublic.com/user/cinematic-omelete-studios) site.
 
-<figure class="wp-block-image size-large">![Brothers Soong](https://nickburaglio.com/wp-content/uploads/2021/01/Brothers_Soong_Transparent_Framed_Splatter-1024x842.png)</figure><figure class="wp-block-image size-large">![](https://nickburaglio.com/wp-content/uploads/2021/01/Plisskin-Clause-Transparent-1024x852.png)</figure>
+![][(https://nickburaglio.com/wp-content/uploads/2021/01/Brothers_Soong_Transparent_Framed_Splatter-1024x842.png)](https://nickburaglio.com/wp-content/uploads/2021/01/Brothers_Soong_Transparent_Framed_Splatter-1024x842.png)
+
+![][(https://nickburaglio.com/wp-content/uploads/2021/01/Plisskin-Clause-Transparent-1024x852.png)](https://nickburaglio.com/wp-content/uploads/2021/01/Plisskin-Clause-Transparent-1024x852.png)
