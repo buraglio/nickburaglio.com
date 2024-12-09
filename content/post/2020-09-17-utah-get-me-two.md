@@ -18,10 +18,14 @@ Continuing with the art, I have done a bit more with procreate app. I added a ha
 
 As the title suggests – a Point break reference. This one is one of my favorites. I plan to draw in my friends head to all 4 presidents.
 
-<figure class="wp-block-image size-large">![][(https://nickburaglio.com/wp-content/uploads/2020/09/Presidents-1024x531.png)](https://nickburaglio.com/wp-content/uploads/2020/09/Presidents-1024x531.png)</figure>In keeping with the theme of 80s and 90s movies – This one came about after a friend suggested I watch the[ Harry Dean Stanton documentary](https://www.imdb.com/title/tt2372776/). Even though [HDS](https://www.imdb.com/title/tt2372776/) has been in sooooo many classics (Repo Man, Escape from New York, Alien….this list goes on seemingly forever)The first thing I think of is the scene from Red Dawn where he’s screaming “Avenge me!”.
+![](https://nickburaglio.com/wp-content/uploads/2020/09/Presidents-1024x531.png)
 
-<figure class="wp-block-image size-large">![][(https://nickburaglio.com/wp-content/uploads/2020/09/Avenge-Me-1024x942.png)](https://nickburaglio.com/wp-content/uploads/2020/09/Avenge-Me-1024x942.png)</figure>“Dog” A hastily drawn design of my dog after one fo the boys put these funky glasses on it.
+ In keeping with the theme of 80s and 90s movies – This one came about after a friend suggested I watch the[ Harry Dean Stanton documentary](https://www.imdb.com/title/tt2372776/). Even though [HDS](https://www.imdb.com/title/tt2372776/) has been in sooooo many classics (Repo Man, Escape from New York, Alien….this list goes on seemingly forever)The first thing I think of is the scene from Red Dawn where he’s screaming “Avenge me!”.
 
- ![][(https://nickburaglio.com/wp-content/uploads/2020/09/Carter-puzzle.png)](https://nickburaglio.com/wp-content/uploads/2020/09/Carter-puzzle.png)
+![](https://nickburaglio.com/wp-content/uploads/2020/09/Avenge-Me-1024x942.png)
 
-Not that anyone would want one, but almost everything I make is available on both [TeeSpring](https://teespring.com/stores/cinematic-omelette-studios) and [RedBubble](https://www.redbubble.com/people/buraglio/shop?asc=u&ref=account-nav-dropdown).
+“Dog” A hastily drawn design of my dog after one fo the boys put these funky glasses on it.
+
+ ![](https://nickburaglio.com/wp-content/uploads/2020/09/Carter-puzzle.png)
+
+Not that anyone would want one, but almost everything I make is available on both [TeePublic](https://www.teepublic.com/user/cinematic-omelete-studios)
