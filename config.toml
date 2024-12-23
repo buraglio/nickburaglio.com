@@ -9,7 +9,7 @@ disqusShortname = "nickburaglio"
     description = "Random junk that updates infrequently"
     github = "https://github.com/buraglio"
     linkedin = "https://linkedin.com/in/buraglio/"
-    email = "my firstname at my lastime dot com"
+    email = "my firstname at my lastname dot com"
 
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
