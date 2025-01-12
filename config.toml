@@ -1,9 +1,11 @@
 baseURL = "https://nickburaglio.com/"
 languageCode = "en-us"
 title = "Nick Buraglio......com"
+copyright = "Copyright (c) 2025, all rights reserved."
 theme = "hugo-theme-console"
 disqusShortname = "nickburaglio"
-
+[author]
+  name = "Nick Buraglio"
 [Params]
     headline = "NickBuraglio.com"
     description = "Random junk that updates infrequently"
@@ -14,17 +16,28 @@ disqusShortname = "nickburaglio"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
 
-  # Set the animation style -- https://animate.style/
-  # To disable animations, please remove or comment animationStyle parameter
-  animateStyle = "animated zoomIn fast" 
+  [[params.navlinks]]
+  name = "blog/"
+  url = "post/"
+
+  [[params.navlinks]]
+  name = "tags/"
+  url = "tags/"
 
   [[params.navlinks]]
   name = "about/"
   url = "about/"
 
-  [[params.navlinks]]
-  name = "post/"
-  url = "post/"
+[[params.navlinks]]
+  name = "resume/"
+  url = "https://github.com/buraglio/resume/"
+
+[[params.navlinks]]
+  name = "store/"
+  url = "https://www.teepublic.com/user/cinematic-omelete-studios"
+
+[params.meta]
+  keywords = "blog, art, Nick Buraglio, illustration, procreate, t-shirts, skateboarding, skate, comics"
 
 [permalinks]
   posts = "/:year/:month/:title/"
