@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2010/05/16/tor-running-on-my-pfsense-box/'
 permalink: /2010/05/16/tor-running-on-my-pfsense-box/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2010/05/tor-running-on-my-pfsense-box.html
 dsq_thread_id:
     - '2437218330'
 post_views:

@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2012/12/08/rip-barley/'
 permalink: /2012/12/08/rip-barley/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2012/12/rip-barley.html
 dsq_thread_id:
     - '2154123468'
 post_views:

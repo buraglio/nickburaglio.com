@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2009/01/11/you-know-you-want-a-cold-locals-shirt/'
 permalink: /2009/01/11/you-know-you-want-a-cold-locals-shirt/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2009/01/you-know-you-want-cold-locals-shirt.html
 post_views:
     - '291'
 categories:
@@ -24,5 +18,5 @@ Image manipulation via either [Photoshop](http://www.adobe.com/products/photosho
 |---|
 | <span>So retro! So old school! Wow, it’s a xeroxed image!</span> |
 
-Reminiscent of the old do-it-yourself style that was so common in early skateboarding, I just had to have this image from the archives on a some sort of apparel.  
+Reminiscent of the old do-it-yourself style that was so common in early skateboarding, I just had to have this image from the archives on a some sort of apparel. 
 Through the magic and wonder that is the internet, I had nearly instant gratification. A [Short Sleeved T- Shirt](http://tinyurl.com/87fo5d), a [long sleeved T-Shirt](http://tinyurl.com/a9cwbu), and even the always stylish [hooded sweatshirt](http://tinyurl.com/8gn979). Now you can show your colors if you were a Clinton or Wapella, Illinois skateboarder from the early days.

@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2005/05/26/ahhhh-the-blog-ever-changing/'
 permalink: /2005/05/26/ahhhh-the-blog-ever-changing/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2005/05/ahhhh-blog-ever-changing.html
 dsq_thread_id:
     - '2377809292'
 post_views:

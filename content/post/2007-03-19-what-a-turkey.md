@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2007/03/19/what-a-turkey/'
 permalink: /2007/03/19/what-a-turkey/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2007/03/what-turkey.html
 post_views:
     - '307'
 categories:

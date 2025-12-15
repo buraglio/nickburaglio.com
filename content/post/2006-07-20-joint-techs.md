@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/07/20/joint-techs/'
 permalink: /2006/07/20/joint-techs/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/07/joint-techs.html
 post_views:
     - '286'
 categories:

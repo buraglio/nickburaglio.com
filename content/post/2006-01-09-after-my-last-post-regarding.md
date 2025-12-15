@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/01/09/after-my-last-post-regarding/'
 permalink: /2006/01/09/after-my-last-post-regarding/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/01/after-my-last-post-regarding.html
 post_views:
     - '266'
 categories:

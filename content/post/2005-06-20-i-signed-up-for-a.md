@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2005/06/20/i-signed-up-for-a/'
 permalink: /2005/06/20/i-signed-up-for-a/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2005/06/i-signed-up-for.html
 post_views:
     - '276'
 categories:

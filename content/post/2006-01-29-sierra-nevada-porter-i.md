@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/01/29/sierra-nevada-porter-i/'
 permalink: /2006/01/29/sierra-nevada-porter-i/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/01/sierra-nevada-porter-i.html
 post_views:
     - '271'
 categories:

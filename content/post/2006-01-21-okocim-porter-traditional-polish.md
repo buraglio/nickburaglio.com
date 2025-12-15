@@ -1,17 +1,11 @@
 ---
 id: 371
-title: 'Okocim porter &#8220;Traditional polish'
+title: 'Okocim porter "Traditional polish'
 date: '2006-01-21T21:45:00+00:00'
 author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/01/21/okocim-porter-traditional-polish/'
 permalink: /2006/01/21/okocim-porter-traditional-polish/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/01/okocim-porter-polish.html
 post_views:
     - '267'
 categories:

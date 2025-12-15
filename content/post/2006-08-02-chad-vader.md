@@ -6,22 +6,16 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/08/02/chad-vader/'
 permalink: /2006/08/02/chad-vader/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/08/chad-vader.html
 post_views:
     - '323'
 categories:
     - 'The firehose'
 ---
 
-Someone emailed this to me and I found it quite amusing. “Chad” Vader as a day manager of a supermarket. A little weird but entertaining nontheless.  
+Someone emailed this to me and I found it quite amusing. “Chad” Vader as a day manager of a supermarket. A little weird but entertaining nontheless. 
 There are 2 “episodes” that I have seen so far:
 
 “Episode 1”
 
-and  
+and 
 “Episode 2”

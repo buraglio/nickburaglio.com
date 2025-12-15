@@ -1,17 +1,11 @@
 ---
 id: 356
-title: 'So I&#8217;ve had basically the'
+title: 'So I've had basically the'
 date: '2006-03-25T18:48:00+00:00'
 author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/03/25/so-ive-had-basically-the/'
 permalink: /2006/03/25/so-ive-had-basically-the/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/03/so-i-had-basically.html
 post_views:
     - '287'
 categories:

@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/01/03/apple-docking-patent-works-great-with-ultra-slim-macbook-pic/'
 permalink: /2008/01/03/apple-docking-patent-works-great-with-ultra-slim-macbook-pic/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/01/apple-docking-patent-works-great-with.html
 post_views:
     - '236'
 categories:

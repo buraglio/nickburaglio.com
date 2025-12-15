@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2005/08/14/the-other-day-i/'
 permalink: /2005/08/14/the-other-day-i/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2005/08/other-day-i.html
 dsq_thread_id:
     - '4046551027'
 post_views:

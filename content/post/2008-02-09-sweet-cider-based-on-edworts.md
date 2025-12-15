@@ -1,17 +1,11 @@
 ---
 id: 273
-title: 'Sweet Cider (based on edwort&#8217;s'
+title: 'Sweet Cider (based on edwort's'
 date: '2008-02-09T15:27:00+00:00'
 author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/02/09/sweet-cider-based-on-edworts/'
 permalink: /2008/02/09/sweet-cider-based-on-edworts/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/02/sweet-cider-based-on-edwort.html
 post_views:
     - '295'
 categories:

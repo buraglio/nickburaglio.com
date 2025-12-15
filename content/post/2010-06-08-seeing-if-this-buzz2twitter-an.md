@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2010/06/08/seeing-if-this-buzz2twitter-an/'
 permalink: /2010/06/08/seeing-if-this-buzz2twitter-an/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2010/06/seeing-if-this-buzz2twitter.html
 post_views:
     - '169'
 categories:

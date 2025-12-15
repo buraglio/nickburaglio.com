@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2009/03/09/hardcore-punk-church-dancing/'
 permalink: /2009/03/09/hardcore-punk-church-dancing/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2009/03/hardcore-punk-church-dancing.html
 dsq_thread_id:
     - '2515744243'
 post_views:

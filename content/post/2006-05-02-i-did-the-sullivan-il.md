@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/05/02/i-did-the-sullivan-il/'
 permalink: /2006/05/02/i-did-the-sullivan-il/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/05/i-did-sullivan-il.html
 post_views:
     - '279'
 categories:

@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/11/19/verizon-blackberry-storm-debacle/'
 permalink: /2008/11/19/verizon-blackberry-storm-debacle/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/11/verizon-blackberry-storm-debacle.html
 dsq_thread_id:
     - '2717726750'
 post_views:

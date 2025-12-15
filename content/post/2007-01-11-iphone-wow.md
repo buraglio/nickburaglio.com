@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2007/01/11/iphone-wow/'
 permalink: /2007/01/11/iphone-wow/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2007/01/iphone-wow.html
 post_views:
     - '288'
 categories:

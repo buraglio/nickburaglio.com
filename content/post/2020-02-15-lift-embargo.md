@@ -16,4 +16,4 @@ Many years ago I [wrote about my love for dystopian, apocalyptic movies ](https:
 
 As part of my “trying to do something creative more often” phase, I have made this quick illustration of “Master” of “[Master-Blaster](https://madmax.fandom.com/wiki/Master_Blaster)”
 
-![](https://nickburaglio.com/wp-content/uploads/2020/02/Embargo-on-1024x768.png)
+![](/wp-content/uploads/2020/02/Embargo-on-1024x768.png)

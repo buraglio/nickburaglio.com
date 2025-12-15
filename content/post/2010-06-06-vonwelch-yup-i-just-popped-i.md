@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2010/06/06/vonwelch-yup-i-just-popped-i/'
 permalink: /2010/06/06/vonwelch-yup-i-just-popped-i/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2010/06/vonwelch-yup-i-just-popped-i.html
 post_views:
     - '185'
 categories:

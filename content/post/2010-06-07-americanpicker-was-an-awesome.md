@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2010/06/07/americanpicker-was-an-awesome/'
 permalink: /2010/06/07/americanpicker-was-an-awesome/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2010/06/americanpicker-was-awesome.html
 post_views:
     - '180'
 categories:

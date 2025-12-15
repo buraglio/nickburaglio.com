@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/08/05/belgian-ale/'
 permalink: /2008/08/05/belgian-ale/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/08/belgian-ale.html
 post_views:
     - '273'
 categories:

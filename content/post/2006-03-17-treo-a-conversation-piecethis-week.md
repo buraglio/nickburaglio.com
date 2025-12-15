@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/03/17/treo-a-conversation-piecethis-week/'
 permalink: /2006/03/17/treo-a-conversation-piecethis-week/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/03/treo-conversation-piecethis-week.html
 post_views:
     - '269'
 categories:

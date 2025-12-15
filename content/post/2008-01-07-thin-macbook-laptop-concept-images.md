@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/01/07/thin-macbook-laptop-concept-images/'
 permalink: /2008/01/07/thin-macbook-laptop-concept-images/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/01/thin-macbook-laptop-concept-images.html
 dsq_thread_id:
     - '2508906930'
 post_views:

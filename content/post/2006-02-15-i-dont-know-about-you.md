@@ -1,24 +1,18 @@
 ---
 id: 363
-title: 'I don&#8217;t know about you,'
+title: 'I don't know about you,'
 date: '2006-02-15T16:49:00+00:00'
 author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/02/15/i-dont-know-about-you/'
 permalink: /2006/02/15/i-dont-know-about-you/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/02/i-don-know-about-you.html
 post_views:
     - '298'
 categories:
     - 'The firehose'
 ---
 
-<div></div>I don’t know about you, but I found this incredibly frightening…  
+<div></div>I don’t know about you, but I found this incredibly frightening… 
 [![](http://www.thegfloor.co.uk/otherstuff/cashmachinewindows.jpg)](http://www.thegfloor.co.uk/otherstuff/cashmachinewindows.jpg)
 
 With all the talk of the [CTA machines being vulnerable](http://www.ctatattler.com/2006/02/cta_info_screen.html) and [other MTA ](http://img26.exs.cx/img26/5349/dsc019149tz.jpg) machines crashing or being problematic I got to thinking about how many mission critical or sensitive systems are vulnerable, rooted, 0wn3d or whatever. Most Cash machines used to be OS/2 but that’s been changing lately and I know for sure some are moving to windows. Lets just hope all these systems are well maintained or more secured than they probably are…..probably wishful thikning..

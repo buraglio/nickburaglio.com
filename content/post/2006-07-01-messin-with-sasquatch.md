@@ -1,17 +1,11 @@
 ---
 id: 334
-title: 'Messin&#8217; with Sasquatch..'
+title: 'Messin' with Sasquatch..'
 date: '2006-07-01T07:48:00+00:00'
 author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/07/01/messin-with-sasquatch/'
 permalink: /2006/07/01/messin-with-sasquatch/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/07/messin-with-sasquatch.html
 post_views:
     - '281'
 categories:

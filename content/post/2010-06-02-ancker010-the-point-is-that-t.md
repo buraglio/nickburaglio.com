@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2010/06/02/ancker010-the-point-is-that-t/'
 permalink: /2010/06/02/ancker010-the-point-is-that-t/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2010/06/ancker010-point-is-that-t.html
 post_views:
     - '194'
 categories:

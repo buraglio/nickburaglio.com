@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/12/31/luke-patrick-buraglio/'
 permalink: /2008/12/31/luke-patrick-buraglio/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/12/luke-patrick-buraglio.html
 dsq_thread_id:
     - '4081959972'
 post_views:

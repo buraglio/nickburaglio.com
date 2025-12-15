@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/08/18/tux-shirt-not-linux/'
 permalink: /2006/08/18/tux-shirt-not-linux/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/08/tux-shirt-not-linux.html
 post_views:
     - '295'
 categories:

@@ -1,17 +1,11 @@
 ---
 id: 241
-title: 'Funny twist on an 80&#8217;s classic video'
+title: 'Funny twist on an 80's classic video'
 date: '2008-11-10T20:33:00+00:00'
 author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/11/10/funny-twist-on-an-80s-classic-video/'
 permalink: /2008/11/10/funny-twist-on-an-80s-classic-video/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/11/funny-twist-on-80-classic-video.html
 post_views:
     - '198'
 categories:

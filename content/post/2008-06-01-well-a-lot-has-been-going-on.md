@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/06/01/well-a-lot-has-been-going-on/'
 permalink: /2008/06/01/well-a-lot-has-been-going-on/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/06/wella-lot-has-been-going-on.html
 post_views:
     - '280'
 categories:

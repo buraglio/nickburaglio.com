@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/08/30/more-futurama-stuff/'
 permalink: /2006/08/30/more-futurama-stuff/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/08/more-futurama-stuff.html
 post_views:
     - '318'
 categories:

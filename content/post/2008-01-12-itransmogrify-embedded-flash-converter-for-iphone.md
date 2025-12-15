@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/01/12/itransmogrify-embedded-flash-converter-for-iphone/'
 permalink: /2008/01/12/itransmogrify-embedded-flash-converter-for-iphone/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/01/itransmogrify-embedded-flash-converter.html
 post_views:
     - '323'
 categories:

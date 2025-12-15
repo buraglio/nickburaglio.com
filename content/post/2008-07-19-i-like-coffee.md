@@ -6,19 +6,13 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/07/19/i-like-coffee/'
 permalink: /2008/07/19/i-like-coffee/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/07/i-like-coffee.html
 post_views:
     - '289'
 categories:
     - 'The firehose'
 ---
 
-I got a [new imac ](http://buraglio.com/nick/media/newimac.html)(and it’s awesome) and was messing with capturing some video on the built in camera and editing it with iMovie…  
+I got a [new imac ](http://buraglio.com/nick/media/newimac.html)(and it’s awesome) and was messing with capturing some video on the built in camera and editing it with iMovie… 
 Anyway, I like coffee and here is the result:
 
 So dumb and yet so true…

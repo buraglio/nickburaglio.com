@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/01/03/apple-may-offer-external-optical-drive-with-new-sub-notebook/'
 permalink: /2008/01/03/apple-may-offer-external-optical-drive-with-new-sub-notebook/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/01/apple-may-offer-external-optical-drive.html
 post_views:
     - '206'
 categories:

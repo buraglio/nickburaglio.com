@@ -9,11 +9,11 @@ permalink: /2013/03/17/top-5-post-apocalyptic-movies/
 themeblvd_noindex:
     - 'true'
 themeblvd_keywords:
-    - 'Mad Max, Thunderdome, Zombie, Apocalypse, Film, Shawn of the dead, Snake Plissken, Damnation Alley, Jackie Earle Haley,  A Boy and his Dog, Jan-Michael Vincent, Six-String Samurai, La Jatee'
+    - 'Mad Max, Thunderdome, Zombie, Apocalypse, Film, Shawn of the dead, Snake Plissken, Damnation Alley, Jackie Earle Haley, A Boy and his Dog, Jan-Michael Vincent, Six-String Samurai, La Jatee'
 themeblvd_title:
     - 'Nick Buraglio'
 themeblvd_description:
-    - 'My top 5 post-apocalyptic movies.  '
+    - 'My top 5 post-apocalyptic movies. '
 dsq_thread_id:
     - '2157540298'
 post_views:
@@ -22,7 +22,7 @@ categories:
     - 'The firehose'
 ---
 
-[![Wez](http://www.nickburaglio.com/wp-content/uploads/2013/03/Wez-300x198.jpg)](http://www.nickburaglio.com/wp-content/uploads/2013/03/Wez.jpg)
+[![Wez](/wp-content/uploads/2013/03/Wez-300x198.jpg)](/wp-content/uploads/2013/03/Wez.jpg)
 
 I’m a huge fan of post-apocalyptic movies. In fact, next to humorous horror / gore movies (that’ll be my next list), I think they’re my favorite. This is a subject that my longtime friend and fellow movie enthusiast (as well as ex-video store co-worker) [Sean Holland](https://twitter.com/SeanMHolland) and I have discussed at length. In fact, this is eventually to the be subject of our first podcast. So as not to spoil the content of said podcast, I’m just going to give a list with minimal detail as opposed to a complex description of my reasoning.
 
@@ -32,9 +32,9 @@ I’m a huge fan of post-apocalyptic movies. In fact, next to humorous horror / 
 
 2.[ Damnation Alley](http://www.imdb.com/title/tt0075909/?ref_=fn_al_tt_1). If you’ve not seen this, find it and watch it. It’s campy and cheesy but amazing at the same time. [Jan-Michael Vincent](http://www.imdb.com/name/nm0001821/?ref_=tt_ov_st), [George Peppard](http://www.imdb.com/name/nm0000577/?ref_=tt_ov_st), [Dominique Sanda](http://www.imdb.com/name/nm0761212/?ref_=tt_ov_st) and [Jackie Earle Haley](http://www.imdb.com/name/nm0355097/), giant cockroaches and a badass vehicle. I always wanted a toy of that truck.
 
-[![snake-plissken-jacket](http://www.nickburaglio.com/wp-content/uploads/2013/03/snake-plissken-jacket.jpg)](http://www.nickburaglio.com/wp-content/uploads/2013/03/snake-plissken-jacket.jpg)2. [Escape from New York](http://www.imdb.com/title/tt0082340/). This one was **very** close to being #1 on my list. Once I got drunk and drew the snake tattoo on myself. This movie is amazing in every way. I often ask myself “What would Snake Plissken do?” and take that into advisement. It’s 1980’s cheese but fantastic at the same time. The sequel was a pile of crap and as far as I’m concerned does not exist.
+[![snake-plissken-jacket](/wp-content/uploads/2013/03/snake-plissken-jacket.jpg)](/wp-content/uploads/2013/03/snake-plissken-jacket.jpg)2. [Escape from New York](http://www.imdb.com/title/tt0082340/). This one was **very** close to being #1 on my list. Once I got drunk and drew the snake tattoo on myself. This movie is amazing in every way. I often ask myself “What would Snake Plissken do?” and take that into advisement. It’s 1980’s cheese but fantastic at the same time. The sequel was a pile of crap and as far as I’m concerned does not exist.
 
-[![roadwarrior1](http://www.nickburaglio.com/wp-content/uploads/2013/03/roadwarrior1-300x197.jpg)](http://www.nickburaglio.com/wp-content/uploads/2013/03/roadwarrior1.jpg)
+[![roadwarrior1](/wp-content/uploads/2013/03/roadwarrior1-300x197.jpg)](/wp-content/uploads/2013/03/roadwarrior1.jpg)
 
 1\. [The Road Warrior](http://www.imdb.com/title/tt0082694/). The Second of the “Mad Max” trilogy. Probably the first of this style that I ever saw. Also my favorite. Max is the tortured hero that somehow kinda does the right thing but it no one to be trifled with. Watch this with commentary on for a really interesting take, but if you’ve never seen it, watch it undisturbed first. Great movie, I can watch it over and over.
 

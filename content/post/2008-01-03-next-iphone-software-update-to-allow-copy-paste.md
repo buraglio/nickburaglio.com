@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/01/03/next-iphone-software-update-to-allow-copy-paste/'
 permalink: /2008/01/03/next-iphone-software-update-to-allow-copy-paste/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/01/next-iphone-software-update-to-allow.html
 post_views:
     - '229'
 categories:

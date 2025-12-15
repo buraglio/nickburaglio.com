@@ -1,17 +1,11 @@
 ---
 id: 269
-title: 'I couldn&#8217;t resist&#8230;I had to skate'
+title: 'I couldn't resist&#8230;I had to skate'
 date: '2008-03-22T17:49:00+00:00'
 author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/03/22/i-couldnt-resist-i-had-to-skate/'
 permalink: /2008/03/22/i-couldnt-resist-i-had-to-skate/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/03/i-couldn-resisti-had-to-skate.html
 post_views:
     - '263'
 categories:

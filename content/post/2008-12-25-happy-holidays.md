@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/12/25/happy-holidays/'
 permalink: /2008/12/25/happy-holidays/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/12/happy-holidays.html
 post_views:
     - '306'
 categories:
@@ -20,5 +14,5 @@ categories:
 
 I enjoyed this….white guys that dance as poorly as I do.
 
-…obviously it’s Mac, BTW.   
+…obviously it’s Mac, BTW. 
 \[ad#longer\]

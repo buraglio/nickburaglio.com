@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2007/02/15/an-ipod-vending-machine/'
 permalink: /2007/02/15/an-ipod-vending-machine/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2007/02/ipod-vending-machine.html
 dsq_thread_id:
     - '2441851448'
 post_views:

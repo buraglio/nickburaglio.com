@@ -1,17 +1,11 @@
 ---
 id: 295
-title: 'Let the unbricking begin-iPhone Elite team announces &#8220;revirginizer&#8221; release, thousands likely rejoice.'
+title: 'Let the unbricking begin-iPhone Elite team announces "revirginizer" release, thousands likely rejoice.'
 date: '2007-10-23T10:25:00+00:00'
 author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2007/10/23/let-the-unbricking-begin-iphone-elite-team-announces-revirginizer-release-thousands-likely-rejoice/'
 permalink: /2007/10/23/let-the-unbricking-begin-iphone-elite-team-announces-revirginizer-release-thousands-likely-rejoice/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2007/10/let-unbricking-begin-iphone-elite-team.html
 post_views:
     - '305'
 categories:

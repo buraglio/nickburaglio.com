@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/08/11/pfsense-certificate-chain-import-code/'
 permalink: /2008/08/11/pfsense-certificate-chain-import-code/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/08/pfsense-certificate-chain-import-code.html
 dsq_thread_id:
     - '2352993322'
 post_views:
@@ -22,10 +16,10 @@ categories:
 
 I updated some code to make importing certificate chains work under pfSense. It’s been a long time coming and the code is probably messy since I’m not a programmer but, for anyone that needs this, it should work.
 
-There are 4 files that need touched:  
-captiveportal.inc  
-system.inc  
-services\_captiveportal.php  
+There are 4 files that need touched: 
+captiveportal.inc 
+system.inc 
+services\_captiveportal.php 
 system\_advanced.php
 
 All are contained in the tar file [here](http://www.buraglio.com/nick/projects/scripts/php/pfsense-certchain-working.tgz).

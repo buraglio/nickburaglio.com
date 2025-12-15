@@ -1,17 +1,11 @@
 ---
 id: 726
-title: 'Weirdest &#8220;Action Figures&#8221; ever.'
+title: 'Weirdest "Action Figures" ever.'
 date: '2012-12-08T15:09:00+00:00'
 author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2012/12/08/weirdest-action-figures-ever/'
 permalink: /2012/12/08/weirdest-action-figures-ever/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2012/12/weirdest-action-figures-ever.html
 dsq_thread_id:
     - '2165797375'
 post_views:

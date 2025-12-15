@@ -1,6 +1,6 @@
 ---
 id: 441
-title: 'Finnish war mead &#8211; SotaSima'
+title: 'Finnish war mead – SotaSima'
 date: '2013-03-27T23:50:45+00:00'
 author: buraglio
 layout: post

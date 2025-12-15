@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/08/11/reno-nv-and-the-dilly-willy-or-willy-dilly/'
 permalink: /2006/08/11/reno-nv-and-the-dilly-willy-or-willy-dilly/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/08/reno-nv-and-dilly-willy-or-willy-dilly.html
 dsq_thread_id:
     - '4547824634'
 post_views:

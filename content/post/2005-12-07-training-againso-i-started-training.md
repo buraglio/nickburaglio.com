@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2005/12/07/training-againso-i-started-training/'
 permalink: /2005/12/07/training-againso-i-started-training/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2005/12/training-againso-i-started-training.html
 post_views:
     - '259'
 categories:

@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2005/10/29/ahhh-many-things-have-happened/'
 permalink: /2005/10/29/ahhh-many-things-have-happened/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2005/10/ahhh-many-things-have-happened.html
 post_views:
     - '281'
 categories:

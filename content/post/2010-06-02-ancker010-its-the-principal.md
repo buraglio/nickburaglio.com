@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2010/06/02/ancker010-its-the-principal/'
 permalink: /2010/06/02/ancker010-its-the-principal/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2010/06/ancker010-its-principal.html
 post_views:
     - '188'
 categories:

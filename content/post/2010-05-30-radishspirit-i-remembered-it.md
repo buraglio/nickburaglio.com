@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2010/05/30/radishspirit-i-remembered-it/'
 permalink: /2010/05/30/radishspirit-i-remembered-it/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2010/05/radishspirit-i-remembered-it.html
 dsq_thread_id:
     - '2203618858'
 post_views:
