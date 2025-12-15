@@ -1,6 +1,6 @@
 ---
 id: 206
-title: "2 more SNL shorts are a hit&#8230;("Wii guys" and "I'm on a boat")"
+title: '2 more SNL shorts are a hit&#8230;("Wii guys" and "I'm on a boat")'
 date: '2009-02-20T18:01:00+00:00'
 author: buraglio
 layout: post

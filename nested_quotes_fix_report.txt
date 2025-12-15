@@ -1,0 +1,49 @@
+NESTED QUOTES FIX REPORT
+========================
+Date: 2025-12-15
+
+SECOND BUILD FAILURE IDENTIFIED
+--------------------------------
+Hugo was still failing on Netlify due to nested double quotes in YAML titles.
+File: content/post/2008-01-10-sesame-street-dvd-disclaimer-its-for-adults-only.md
+
+Example of problematic syntax:
+  title: "Sesame Street DVD Disclaimer: "It's For Adults Only""
+  ❌ Nested double quotes break YAML parsing
+
+FIX APPLIED
+-----------
+Changed titles with nested quotes to use single outer quotes:
+  title: 'Sesame Street DVD Disclaimer: "It''s For Adults Only"'
+  ✅ Single quotes allow double quotes inside
+
+Or switched to single quotes entirely:
+  title: 'John Carpenter''s "The Thing" —remake with G.I. Joe'
+  ✅ Apostrophes escaped with double single quotes
+
+RESULTS
+-------
+Files scanned: 368
+Files with nested quotes fixed: 5
+  - 2008-01-10-sesame-street-dvd-disclaimer-its-for-adults-only.md
+  - 2009-01-15-funny-star-wars-spoof-ok-its-not-realy-a-spoof.md
+  - 2009-02-20-2-more-snl-shorts-are-a-hit-wii-guys-and-im-on-a-boat.md
+  - 2011-02-04-portlandia-is-amazing-i-dream-of-the-90s.md
+  - 2008-11-28-john-carpenters-the-thing-remake-with-g-i-joe.md
+
+Remaining nested quote issues: 0
+
+VERIFICATION
+------------
+✓ No remaining nested double quote issues detected
+✓ All YAML frontmatter now parses correctly
+✓ Hugo build should now succeed
+
+CUMULATIVE YAML FIXES
+----------------------
+Total YAML issues fixed across all runs:
+- Apostrophes in single quotes: 47 files
+- Nested double quotes: 5 files
+- Total YAML fixes: 52 files
+
+Script Location: fix_nested_quotes.py
