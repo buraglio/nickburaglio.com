@@ -1,6 +1,6 @@
 ---
 id: 115
-title: '@weeklyroast vzw is a great ne&#8230;'
+title: '@weeklyroast vzw is a great ne'
 date: '2010-06-02T16:50:00+00:00'
 author: buraglio
 layout: post

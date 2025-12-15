@@ -1,6 +1,6 @@
 ---
 id: 165
-title: "See, we're putting new cover s&#8230;"
+title: "See, we're putting new cover s"
 date: '2010-05-19T13:59:00+00:00'
 author: buraglio
 layout: post

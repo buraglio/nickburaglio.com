@@ -1,6 +1,6 @@
 ---
 id: 126
-title: '@RadishSpirit I remembered it &#8230;'
+title: '@RadishSpirit I remembered it '
 date: '2010-05-30T15:35:00+00:00'
 author: buraglio
 layout: post

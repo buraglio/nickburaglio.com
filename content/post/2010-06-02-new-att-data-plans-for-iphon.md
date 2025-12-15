@@ -1,6 +1,6 @@
 ---
 id: 119
-title: 'New AT&T data plans for #iPhon&#8230;'
+title: 'New AT&T data plans for #iPhon'
 date: '2010-06-02T08:58:00+00:00'
 author: buraglio
 layout: post

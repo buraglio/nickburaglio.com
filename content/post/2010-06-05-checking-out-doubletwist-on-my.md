@@ -1,6 +1,6 @@
 ---
 id: 108
-title: 'Checking out doubletwist on my&#8230;'
+title: 'Checking out doubletwist on my'
 date: '2010-06-05T10:30:00+00:00'
 author: buraglio
 layout: post

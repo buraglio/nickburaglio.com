@@ -1,6 +1,6 @@
 ---
 id: 162
-title: '@jlgaddis I have one. Shoot me&#8230;'
+title: '@jlgaddis I have one. Shoot me'
 date: '2010-05-20T15:06:00+00:00'
 author: buraglio
 layout: post

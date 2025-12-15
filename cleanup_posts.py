@@ -11,6 +11,7 @@ from pathlib import Path
 
 # HTML entity replacements
 HTML_ENTITIES = {
+    '&#8230;': "",
     '&#8217;': "'",
     '&#8220;': '"',
     '&#8221;': '"',

@@ -1,6 +1,6 @@
 ---
 id: 168
-title: 'Digging the #twitter #android &#8230;'
+title: 'Digging the #twitter #android '
 date: '2010-05-17T19:26:00+00:00'
 author: buraglio
 layout: post

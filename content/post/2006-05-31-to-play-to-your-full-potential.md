@@ -1,6 +1,6 @@
 ---
 id: 343
-title: 'To play to your full potential&#8230;'
+title: 'To play to your full potential'
 date: '2006-05-31T14:16:00+00:00'
 author: buraglio
 layout: post

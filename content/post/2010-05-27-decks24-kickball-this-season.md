@@ -1,6 +1,6 @@
 ---
 id: 136
-title: '@decks24 kickball this season?&#8230;'
+title: '@decks24 kickball this season?'
 date: '2010-05-27T21:07:00+00:00'
 author: buraglio
 layout: post

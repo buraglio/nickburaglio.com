@@ -1,6 +1,6 @@
 ---
 id: 171
-title: 'tor running on my #pfSense box&#8230;'
+title: 'tor running on my #pfSense box'
 date: '2010-05-16T17:39:00+00:00'
 author: buraglio
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 151
-title: '@ancker010 nice ride! But keep&#8230;'
+title: '@ancker010 nice ride! But keep'
 date: '2010-05-25T17:13:00+00:00'
 author: buraglio
 layout: post

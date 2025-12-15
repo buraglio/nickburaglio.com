@@ -1,6 +1,6 @@
 ---
 id: 302
-title: 'What a turkey&#8230;'
+title: 'What a turkey'
 date: '2007-03-19T10:11:00+00:00'
 author: buraglio
 layout: post

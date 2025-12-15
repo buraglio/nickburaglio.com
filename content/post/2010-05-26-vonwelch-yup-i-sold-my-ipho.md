@@ -1,6 +1,6 @@
 ---
 id: 145
-title: '@VonWelch Yup. I sold my iPho&#8230;'
+title: '@VonWelch Yup. I sold my iPho'
 date: '2010-05-26T13:33:00+00:00'
 author: buraglio
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 130
-title: '@RadishSpirit mine was up at 0&#8230;'
+title: '@RadishSpirit mine was up at 0'
 date: '2010-05-30T08:47:00+00:00'
 author: buraglio
 layout: post

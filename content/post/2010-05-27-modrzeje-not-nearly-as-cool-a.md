@@ -1,6 +1,6 @@
 ---
 id: 140
-title: '@modrzeje Not nearly as cool a&#8230;'
+title: '@modrzeje Not nearly as cool a'
 date: '2010-05-27T19:35:00+00:00'
 author: buraglio
 layout: post

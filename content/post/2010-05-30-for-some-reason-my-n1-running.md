@@ -1,6 +1,6 @@
 ---
 id: 127
-title: 'For some reason my N1 running &#8230;'
+title: 'For some reason my N1 running '
 date: '2010-05-30T15:35:00+00:00'
 author: buraglio
 layout: post

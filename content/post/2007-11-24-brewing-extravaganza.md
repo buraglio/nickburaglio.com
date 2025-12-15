@@ -1,6 +1,6 @@
 ---
 id: 291
-title: 'Brewing extravaganza&#8230;&#8230;'
+title: 'Brewing extravaganza'
 date: '2007-11-24T15:35:00+00:00'
 author: buraglio
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 267
-title: 'I like coffee&#8230;'
+title: 'I like coffee'
 date: '2008-07-19T10:44:00+00:00'
 author: buraglio
 layout: post

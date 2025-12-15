@@ -1,6 +1,6 @@
 ---
 id: 20
-title: 'The last frontier&#8230;'
+title: 'The last frontier'
 date: '2011-07-18T03:32:00+00:00'
 author: buraglio
 layout: post

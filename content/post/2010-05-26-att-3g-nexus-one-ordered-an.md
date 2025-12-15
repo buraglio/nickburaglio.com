@@ -1,6 +1,6 @@
 ---
 id: 146
-title: 'AT&T 3G Nexus One ordered. #an&#8230;'
+title: 'AT&T 3G Nexus One ordered. #an'
 date: '2010-05-26T10:50:00+00:00'
 author: buraglio
 layout: post

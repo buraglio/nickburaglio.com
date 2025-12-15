@@ -1,6 +1,6 @@
 ---
 id: 167
-title: 'Just burned up a 48Gig SSD and&#8230;'
+title: 'Just burned up a 48Gig SSD and'
 date: '2010-05-18T09:35:00+00:00'
 author: buraglio
 layout: post

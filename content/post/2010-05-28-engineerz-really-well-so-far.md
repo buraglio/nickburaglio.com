@@ -1,6 +1,6 @@
 ---
 id: 135
-title: '@engineerz really well so far&#8230;.'
+title: '@engineerz really well so far.'
 date: '2010-05-28T11:53:00+00:00'
 author: buraglio
 layout: post

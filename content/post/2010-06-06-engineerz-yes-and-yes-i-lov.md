@@ -1,6 +1,6 @@
 ---
 id: 103
-title: '@engineerz. yes and yes. I lov&#8230;'
+title: '@engineerz. yes and yes. I lov'
 date: '2010-06-06T15:54:00+00:00'
 author: buraglio
 layout: post

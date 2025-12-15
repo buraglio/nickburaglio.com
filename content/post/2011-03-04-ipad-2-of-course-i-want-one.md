@@ -1,6 +1,6 @@
 ---
 id: 25
-title: 'iPad 2&#8230;.of course I want one.'
+title: 'iPad 2.of course I want one.'
 date: '2011-03-04T18:11:00+00:00'
 author: buraglio
 layout: post

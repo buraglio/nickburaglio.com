@@ -1,6 +1,6 @@
 ---
 id: 169
-title: 'gw kernel: pid 11127 (tor), ui&#8230;'
+title: 'gw kernel: pid 11127 (tor), ui'
 date: '2010-05-17T06:57:00+00:00'
 author: buraglio
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 351
-title: 'Bianchi Veloce; Italian Steel&#8230;'
+title: 'Bianchi Veloce; Italian Steel'
 date: '2006-05-13T10:27:00+00:00'
 author: buraglio
 layout: post

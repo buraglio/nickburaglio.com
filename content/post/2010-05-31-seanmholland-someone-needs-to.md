@@ -1,6 +1,6 @@
 ---
 id: 123
-title: '@SeanMHolland someone needs to&#8230;'
+title: '@SeanMHolland someone needs to'
 date: '2010-05-31T14:05:00+00:00'
 author: buraglio
 layout: post

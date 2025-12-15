@@ -1,6 +1,6 @@
 ---
 id: 134
-title: 'Thinking about doing some geoc&#8230;'
+title: 'Thinking about doing some geoc'
 date: '2010-05-29T09:57:00+00:00'
 author: buraglio
 layout: post

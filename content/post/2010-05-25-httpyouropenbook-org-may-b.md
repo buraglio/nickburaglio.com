@@ -1,6 +1,6 @@
 ---
 id: 149
-title: 'http://youropenbook.org/ may b&#8230;'
+title: 'http://youropenbook.org/ may b'
 date: '2010-05-25T19:43:00+00:00'
 author: buraglio
 layout: post

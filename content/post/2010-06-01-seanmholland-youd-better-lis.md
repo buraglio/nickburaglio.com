@@ -1,6 +1,6 @@
 ---
 id: 121
-title: "@SeanMHolland you'd better lis&#8230;"
+title: "@SeanMHolland you'd better lis"
 date: '2010-06-01T10:02:00+00:00'
 author: buraglio
 layout: post

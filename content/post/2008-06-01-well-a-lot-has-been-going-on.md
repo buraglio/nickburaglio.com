@@ -1,6 +1,6 @@
 ---
 id: 268
-title: 'Well&#8230;.a lot has been going on&#8230;'
+title: 'Well.a lot has been going on'
 date: '2008-06-01T21:50:00+00:00'
 author: buraglio
 layout: post

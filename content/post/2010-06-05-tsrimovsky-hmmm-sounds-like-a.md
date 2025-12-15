@@ -1,6 +1,6 @@
 ---
 id: 106
-title: '@tsrimovsky hmmm sounds like a&#8230;'
+title: '@tsrimovsky hmmm sounds like a'
 date: '2010-06-05T22:13:00+00:00'
 author: buraglio
 layout: post

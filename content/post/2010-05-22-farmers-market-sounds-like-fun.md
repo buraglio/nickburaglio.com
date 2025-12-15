@@ -1,6 +1,6 @@
 ---
 id: 159
-title: 'Farmers market sounds like fun&#8230;'
+title: 'Farmers market sounds like fun'
 date: '2010-05-22T06:28:00+00:00'
 author: buraglio
 layout: post

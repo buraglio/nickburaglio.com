@@ -1,6 +1,6 @@
 ---
 id: 153
-title: 'Afternoon project complete. In&#8230;'
+title: 'Afternoon project complete. In'
 date: '2010-05-23T14:45:00+00:00'
 author: buraglio
 layout: post

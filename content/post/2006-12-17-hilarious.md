@@ -1,6 +1,6 @@
 ---
 id: 312
-title: 'hilarious&#8230;..'
+title: 'hilarious..'
 date: '2006-12-17T21:24:00+00:00'
 author: buraglio
 layout: post

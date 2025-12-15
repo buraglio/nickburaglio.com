@@ -1,6 +1,6 @@
 ---
 id: 118
-title: '@ancker010 The point is that t&#8230;'
+title: '@ancker010 The point is that t'
 date: '2010-06-02T09:23:00+00:00'
 author: buraglio
 layout: post

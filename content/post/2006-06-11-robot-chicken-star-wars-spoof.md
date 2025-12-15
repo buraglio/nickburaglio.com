@@ -1,6 +1,6 @@
 ---
 id: 342
-title: 'Robot Chicken Star Wars spoof&#8230;..'
+title: 'Robot Chicken Star Wars spoof..'
 date: '2006-06-11T20:29:00+00:00'
 author: buraglio
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 100
-title: '@AmericanPicker was an awesome&#8230;'
+title: '@AmericanPicker was an awesome'
 date: '2010-06-07T20:09:00+00:00'
 author: buraglio
 layout: post

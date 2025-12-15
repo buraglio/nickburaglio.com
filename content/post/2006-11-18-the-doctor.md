@@ -1,6 +1,6 @@
 ---
 id: 317
-title: 'The Doctor&#8230;&#8230;'
+title: 'The Doctor'
 date: '2006-11-18T21:36:00+00:00'
 author: buraglio
 layout: post

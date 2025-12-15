@@ -1,6 +1,6 @@
 ---
 id: 53
-title: 'Complainers&#8230;.'
+title: 'Complainers.'
 date: '2010-07-22T07:19:00+00:00'
 author: buraglio
 layout: post

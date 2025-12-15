@@ -1,6 +1,6 @@
 ---
 id: 138
-title: '"When you see the robot, drink&#8230;'
+title: '"When you see the robot, drink'
 date: '2010-05-27T20:35:00+00:00'
 author: buraglio
 layout: post

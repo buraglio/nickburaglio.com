@@ -1,6 +1,6 @@
 ---
 id: 269
-title: "I couldn't resist&#8230;I had to skate"
+title: "I couldn't resistI had to skate"
 date: '2008-03-22T17:49:00+00:00'
 author: buraglio
 layout: post
