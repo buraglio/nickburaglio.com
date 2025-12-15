@@ -1,6 +1,6 @@
 ---
 id: 28
-title: '"Portlandia" is amazing. "I dream of the 90's"'
+title: '"Portlandia" is amazing. "I dream of the 90''s"'
 date: '2011-02-04T14:51:00+00:00'
 author: buraglio
 layout: post
