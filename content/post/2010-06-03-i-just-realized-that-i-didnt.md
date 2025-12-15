@@ -1,6 +1,6 @@
 ---
 id: 113
-title: 'I just realized that I didn't &#8230;'
+title: "I just realized that I didn't &#8230;"
 date: '2010-06-03T06:24:00+00:00'
 author: buraglio
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 685
-title: 'Star Wars: The Force Awakens&#8230;&#8230;and it's associated parodies'
+title: "Star Wars: The Force Awakens&#8230;&#8230;and it's associated parodies"
 date: '2014-12-10T23:53:10+00:00'
 author: buraglio
 layout: post

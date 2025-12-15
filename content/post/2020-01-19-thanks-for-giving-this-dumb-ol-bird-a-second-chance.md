@@ -1,6 +1,6 @@
 ---
 id: 760
-title: 'Thanks for giving this dumb ol' bird a second chance'
+title: "Thanks for giving this dumb ol' bird a second chance"
 date: '2020-01-19T23:06:56+00:00'
 author: buraglio
 layout: post

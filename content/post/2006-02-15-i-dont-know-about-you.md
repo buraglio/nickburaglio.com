@@ -1,6 +1,6 @@
 ---
 id: 363
-title: 'I don't know about you,'
+title: "I don't know about you,"
 date: '2006-02-15T16:49:00+00:00'
 author: buraglio
 layout: post

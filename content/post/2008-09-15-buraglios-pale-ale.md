@@ -1,6 +1,6 @@
 ---
 id: 248
-title: 'Buraglio's Pale Ale'
+title: "Buraglio's Pale Ale"
 date: '2008-09-15T22:43:00+00:00'
 author: buraglio
 layout: post

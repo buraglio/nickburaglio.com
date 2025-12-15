@@ -1,6 +1,6 @@
 ---
 id: 273
-title: 'Sweet Cider (based on edwort's'
+title: "Sweet Cider (based on edwort's"
 date: '2008-02-09T15:27:00+00:00'
 author: buraglio
 layout: post

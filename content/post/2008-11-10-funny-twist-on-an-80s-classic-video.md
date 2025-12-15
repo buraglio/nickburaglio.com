@@ -1,6 +1,6 @@
 ---
 id: 241
-title: 'Funny twist on an 80's classic video'
+title: "Funny twist on an 80's classic video"
 date: '2008-11-10T20:33:00+00:00'
 author: buraglio
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 281
-title: 'Sesame Street DVD Disclaimer: "It's For Adults Only"'
+title: "Sesame Street DVD Disclaimer: "It's For Adults Only""
 date: '2008-01-10T09:30:00+00:00'
 author: buraglio
 layout: post

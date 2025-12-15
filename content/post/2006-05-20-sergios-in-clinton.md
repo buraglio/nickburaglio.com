@@ -1,6 +1,6 @@
 ---
 id: 346
-title: 'Sergio's in Clinton'
+title: "Sergio's in Clinton"
 date: '2006-05-20T22:35:00+00:00'
 author: buraglio
 layout: post

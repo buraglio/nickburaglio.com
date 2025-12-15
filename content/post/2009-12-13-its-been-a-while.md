@@ -1,6 +1,6 @@
 ---
 id: 193
-title: 'It's been a while&#8230;.'
+title: "It's been a while&#8230;."
 date: '2009-12-13T11:52:00+00:00'
 author: buraglio
 layout: post

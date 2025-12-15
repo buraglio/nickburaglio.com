@@ -1,6 +1,6 @@
 ---
 id: 133
-title: '@devivo I'd like to give it a &#8230;'
+title: "@devivo I'd like to give it a &#8230;"
 date: '2010-05-29T10:54:00+00:00'
 author: buraglio
 layout: post

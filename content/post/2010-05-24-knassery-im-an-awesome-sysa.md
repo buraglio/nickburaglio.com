@@ -1,6 +1,6 @@
 ---
 id: 152
-title: '@knassery I'm an awesome sysa&#8230;'
+title: "@knassery I'm an awesome sysa&#8230;"
 date: '2010-05-24T18:57:00+00:00'
 author: buraglio
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 334
-title: 'Messin' with Sasquatch..'
+title: "Messin' with Sasquatch.."
 date: '2006-07-01T07:48:00+00:00'
 author: buraglio
 layout: post

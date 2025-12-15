@@ -1,6 +1,6 @@
 ---
 id: 550
-title: 'How I gave up Facebook and why I don't regret it.'
+title: "How I gave up Facebook and why I don't regret it."
 date: '2013-10-01T15:29:57+00:00'
 author: buraglio
 layout: post

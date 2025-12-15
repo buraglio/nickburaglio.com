@@ -1,6 +1,6 @@
 ---
 id: 356
-title: 'So I've had basically the'
+title: "So I've had basically the"
 date: '2006-03-25T18:48:00+00:00'
 author: buraglio
 layout: post

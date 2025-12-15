@@ -1,6 +1,6 @@
 ---
 id: 143
-title: '@wrtrgrl77 that's an easily ac&#8230;'
+title: "@wrtrgrl77 that's an easily ac&#8230;"
 date: '2010-05-26T16:59:00+00:00'
 author: buraglio
 layout: post

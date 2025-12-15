@@ -1,6 +1,6 @@
 ---
 id: 245
-title: 'It's always sunny'
+title: "It's always sunny"
 date: '2008-10-19T12:59:00+00:00'
 author: buraglio
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 274
-title: 'Chloe's cream aleFrom the BrewBlog'
+title: "Chloe's cream aleFrom the BrewBlog"
 date: '2008-02-01T23:21:00+00:00'
 author: buraglio
 layout: post

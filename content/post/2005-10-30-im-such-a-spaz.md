@@ -1,6 +1,6 @@
 ---
 id: 389
-title: 'I'm such a spaz.'
+title: "I'm such a spaz."
 date: '2005-10-30T08:42:00+00:00'
 author: buraglio
 layout: post

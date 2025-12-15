@@ -1,6 +1,6 @@
 ---
 id: 22
-title: 'Thats right&#8230;.we're sporting a van.'
+title: "Thats right&#8230;.we're sporting a van."
 date: '2011-04-25T03:44:00+00:00'
 author: buraglio
 layout: post

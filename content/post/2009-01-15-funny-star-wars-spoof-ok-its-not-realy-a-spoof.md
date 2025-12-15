@@ -1,6 +1,6 @@
 ---
 id: 212
-title: 'Funny Star Wars "spoof" (ok, it's not realy a spoof)'
+title: "Funny Star Wars "spoof" (ok, it's not realy a spoof)"
 date: '2009-01-15T10:09:00+00:00'
 author: buraglio
 layout: post

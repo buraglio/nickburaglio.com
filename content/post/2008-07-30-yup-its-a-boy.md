@@ -1,6 +1,6 @@
 ---
 id: 261
-title: 'Yup, it's a boy.'
+title: "Yup, it's a boy."
 date: '2008-07-30T08:35:00+00:00'
 author: buraglio
 layout: post

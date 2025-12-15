@@ -1,6 +1,6 @@
 ---
 id: 250
-title: 'I'm obsessed with Kuato again'
+title: "I'm obsessed with Kuato again"
 date: '2008-09-12T20:46:00+00:00'
 author: buraglio
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 259
-title: 'Buraglio's Milk (sweet) Stout recipe.'
+title: "Buraglio's Milk (sweet) Stout recipe."
 date: '2008-08-10T19:12:00+00:00'
 author: buraglio
 layout: post

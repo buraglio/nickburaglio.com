@@ -1,6 +1,6 @@
 ---
 id: 197
-title: 'Darwinism at it's finest.'
+title: "Darwinism at it's finest."
 date: '2009-06-24T18:00:00+00:00'
 author: buraglio
 layout: post

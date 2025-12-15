@@ -1,6 +1,6 @@
 ---
 id: 375
-title: 'I'm a mac user, I'
+title: "I'm a mac user, I"
 date: '2006-01-12T22:32:00+00:00'
 author: buraglio
 layout: post

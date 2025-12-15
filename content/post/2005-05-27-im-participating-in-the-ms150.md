@@ -1,6 +1,6 @@
 ---
 id: 403
-title: 'I'm participating in the ms150'
+title: "I'm participating in the ms150"
 date: '2005-05-27T10:10:00+00:00'
 author: buraglio
 layout: post

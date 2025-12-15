@@ -1,6 +1,6 @@
 ---
 id: 596
-title: 'Greatest coffee mug I've ever owned. (16oz Contigo Autoseal Stainless Steel Vacuum Insulated Tumbler)'
+title: "Greatest coffee mug I've ever owned. (16oz Contigo Autoseal Stainless Steel Vacuum Insulated Tumbler)"
 date: '2013-12-27T15:22:19+00:00'
 author: buraglio
 layout: post

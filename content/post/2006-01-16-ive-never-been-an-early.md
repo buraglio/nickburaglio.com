@@ -1,6 +1,6 @@
 ---
 id: 374
-title: 'I've never been an early'
+title: "I've never been an early"
 date: '2006-01-16T08:27:00+00:00'
 author: buraglio
 layout: post

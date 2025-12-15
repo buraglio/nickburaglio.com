@@ -1,6 +1,6 @@
 ---
 id: 156
-title: 'Blah. Can't seem to shake this&#8230;'
+title: "Blah. Can't seem to shake this&#8230;"
 date: '2010-05-23T07:37:00+00:00'
 author: buraglio
 layout: post

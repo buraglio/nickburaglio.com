@@ -1,0 +1,38 @@
+YAML FRONTMATTER QUOTE FIX REPORT
+==================================
+Date: 2025-12-15
+
+ISSUE IDENTIFIED
+----------------
+Hugo build was failing on Netlify due to malformed YAML frontmatter.
+File: content/post/2006-01-16-ive-never-been-an-early.md
+Error: Apostrophes inside single-quoted title fields broke YAML parsing
+
+Example of problematic syntax:
+  title: 'I've never been an early'  ❌ (apostrophe breaks single quotes)
+
+FIX APPLIED
+-----------
+Changed all title fields with apostrophes from single quotes to double quotes:
+  title: "I've never been an early"  ✅ (double quotes handle apostrophes)
+
+RESULTS
+-------
+Files scanned: 368
+Files fixed: 47
+Remaining issues: 0
+
+VERIFICATION
+------------
+✓ No remaining YAML quote issues detected
+✓ All apostrophes in titles now properly escaped
+✓ Hugo build should now succeed
+
+FILES FIXED (Sample):
+- 2006-01-16-ive-never-been-an-early.md
+- 2008-07-30-yup-its-a-boy.md
+- 2013-12-27-greatest-coffee-mug-ive-ever-owned-*.md
+- 2005-05-27-im-participating-in-the-ms150.md
+...and 43 more files
+
+Script Location: fix_yaml_quotes.py

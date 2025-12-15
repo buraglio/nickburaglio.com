@@ -1,6 +1,6 @@
 ---
 id: 366
-title: 'hofbrau maibock I'd never had'
+title: "hofbrau maibock I'd never had"
 date: '2006-02-11T18:36:00+00:00'
 author: buraglio
 layout: post

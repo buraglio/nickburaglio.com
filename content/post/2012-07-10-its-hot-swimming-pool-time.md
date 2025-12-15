@@ -1,6 +1,6 @@
 ---
 id: 11
-title: 'It's HOT! Swimming pool time.'
+title: "It's HOT! Swimming pool time."
 date: '2012-07-10T19:17:00+00:00'
 author: buraglio
 layout: post

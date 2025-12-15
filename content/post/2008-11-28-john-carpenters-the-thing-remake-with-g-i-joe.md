@@ -1,6 +1,6 @@
 ---
 id: 232
-title: 'John Carpenter's "The Thing" —remake with G.I. Joe'
+title: "John Carpenter's "The Thing" —remake with G.I. Joe"
 date: '2008-11-28T09:57:00+00:00'
 author: buraglio
 layout: post

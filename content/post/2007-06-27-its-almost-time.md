@@ -1,6 +1,6 @@
 ---
 id: 297
-title: 'It's almost time!'
+title: "It's almost time!"
 date: '2007-06-27T17:03:00+00:00'
 author: buraglio
 layout: post
