@@ -1,6 +1,6 @@
 ---
 id: 789
-title: "It's all ball bearings these days, boys&#8230;."
+title: "It's all ball bearings these days, boys."
 date: '2020-01-29T23:04:20+00:00'
 author: buraglio
 layout: post

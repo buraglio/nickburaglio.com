@@ -1,6 +1,6 @@
 ---
 id: 104
-title: '@VonWelch yup, I just popped i&#8230;'
+title: '@VonWelch yup, I just popped i'
 date: '2010-06-06T14:19:00+00:00'
 author: buraglio
 layout: post

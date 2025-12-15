@@ -1,6 +1,6 @@
 ---
 id: 109
-title: '@trombonekenny Skaar and I fou&#8230;'
+title: '@trombonekenny Skaar and I fou'
 date: '2010-06-04T18:22:00+00:00'
 author: buraglio
 layout: post

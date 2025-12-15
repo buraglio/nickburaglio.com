@@ -1,6 +1,6 @@
 ---
 id: 170
-title: '@Vap0rz incredible is more ele&#8230;'
+title: '@Vap0rz incredible is more ele'
 date: '2010-05-16T17:50:00+00:00'
 author: buraglio
 layout: post

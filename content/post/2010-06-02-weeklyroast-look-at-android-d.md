@@ -1,6 +1,6 @@
 ---
 id: 116
-title: '@weeklyroast look at android d&#8230;'
+title: '@weeklyroast look at android d'
 date: '2010-06-02T14:40:00+00:00'
 author: buraglio
 layout: post

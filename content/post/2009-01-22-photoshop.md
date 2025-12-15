@@ -1,6 +1,6 @@
 ---
 id: 210
-title: 'Photoshop&#8230;'
+title: 'Photoshop'
 date: '2009-01-22T00:09:00+00:00'
 author: buraglio
 layout: post

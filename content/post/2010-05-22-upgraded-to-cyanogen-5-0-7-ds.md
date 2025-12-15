@@ -1,6 +1,6 @@
 ---
 id: 158
-title: 'Upgraded to @cyanogen 5.0.7 DS&#8230;'
+title: 'Upgraded to @cyanogen 5.0.7 DS'
 date: '2010-05-22T11:59:00+00:00'
 author: buraglio
 layout: post

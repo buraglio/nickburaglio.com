@@ -1,6 +1,6 @@
 ---
 id: 209
-title: 'My wife is the coolest&#8230;.great 34th'
+title: 'My wife is the coolest.great 34th'
 date: '2009-02-06T00:15:00+00:00'
 author: buraglio
 layout: post

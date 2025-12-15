@@ -1,6 +1,6 @@
 ---
 id: 311
-title: 'iphone &#8230;&#8230;wow'
+title: 'iphone wow'
 date: '2007-01-11T12:25:00+00:00'
 author: buraglio
 layout: post

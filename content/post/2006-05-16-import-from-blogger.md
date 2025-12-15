@@ -1,6 +1,6 @@
 ---
 id: 348
-title: 'Import from blogger&#8230;'
+title: 'Import from blogger'
 date: '2006-05-16T09:46:00+00:00'
 author: buraglio
 layout: post

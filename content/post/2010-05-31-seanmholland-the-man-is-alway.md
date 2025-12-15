@@ -1,6 +1,6 @@
 ---
 id: 122
-title: '@SeanMHolland the man is alway&#8230;'
+title: '@SeanMHolland the man is alway'
 date: '2010-05-31T14:06:00+00:00'
 author: buraglio
 layout: post

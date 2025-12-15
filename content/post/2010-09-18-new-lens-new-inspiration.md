@@ -1,6 +1,6 @@
 ---
 id: 37
-title: 'New lens&#8230;..new inspiration.'
+title: 'New lens..new inspiration.'
 date: '2010-09-18T04:50:00+00:00'
 author: buraglio
 layout: post

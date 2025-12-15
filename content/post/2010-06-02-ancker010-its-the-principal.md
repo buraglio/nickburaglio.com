@@ -1,6 +1,6 @@
 ---
 id: 117
-title: '@ancker010 its the principal, &#8230;'
+title: '@ancker010 its the principal, '
 date: '2010-06-02T09:41:00+00:00'
 author: buraglio
 layout: post

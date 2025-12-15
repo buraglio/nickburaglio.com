@@ -1,6 +1,6 @@
 ---
 id: 270
-title: 'Skateboarding&#8230;&#8230;'
+title: 'Skateboarding'
 date: '2008-03-21T22:13:00+00:00'
 author: buraglio
 layout: post

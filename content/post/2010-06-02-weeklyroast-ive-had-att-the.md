@@ -1,6 +1,6 @@
 ---
 id: 114
-title: '@weeklyroast Ive had att the &#8230;'
+title: '@weeklyroast Ive had att the '
 date: '2010-06-02T16:50:00+00:00'
 author: buraglio
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 164
-title: 'Thanks @AAirwaves, 3,000 bonus&#8230;'
+title: 'Thanks @AAirwaves, 3,000 bonus'
 date: '2010-05-20T07:20:00+00:00'
 author: buraglio
 layout: post

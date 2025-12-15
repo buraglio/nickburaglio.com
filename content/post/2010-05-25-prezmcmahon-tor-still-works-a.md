@@ -1,6 +1,6 @@
 ---
 id: 150
-title: '@prezmcmahon tor still works a&#8230;'
+title: '@prezmcmahon tor still works a'
 date: '2010-05-25T19:33:00+00:00'
 author: buraglio
 layout: post

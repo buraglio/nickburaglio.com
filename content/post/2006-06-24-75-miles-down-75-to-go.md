@@ -1,6 +1,6 @@
 ---
 id: 338
-title: '75 miles down&#8230;.75 to go.'
+title: '75 miles down.75 to go.'
 date: '2006-06-24T16:51:00+00:00'
 author: buraglio
 layout: post

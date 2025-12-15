@@ -1,6 +1,6 @@
 ---
 id: 141
-title: 'Nexus one in hand. Android 2.2&#8230;'
+title: 'Nexus one in hand. Android 2.2'
 date: '2010-05-27T16:43:00+00:00'
 author: buraglio
 layout: post

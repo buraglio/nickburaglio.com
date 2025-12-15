@@ -1,6 +1,6 @@
 ---
 id: 129
-title: '@RadishSpirit that is a fine q&#8230;'
+title: '@RadishSpirit that is a fine q'
 date: '2010-05-30T10:28:00+00:00'
 author: buraglio
 layout: post

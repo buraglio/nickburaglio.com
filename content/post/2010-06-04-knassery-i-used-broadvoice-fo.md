@@ -1,6 +1,6 @@
 ---
 id: 112
-title: '@knassery I used broadvoice fo&#8230;'
+title: '@knassery I used broadvoice fo'
 date: '2010-06-04T06:26:00+00:00'
 author: buraglio
 layout: post

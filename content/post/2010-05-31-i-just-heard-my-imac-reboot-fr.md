@@ -1,6 +1,6 @@
 ---
 id: 125
-title: 'I just heard my imac reboot fr&#8230;'
+title: 'I just heard my imac reboot fr'
 date: '2010-05-31T07:15:00+00:00'
 author: buraglio
 layout: post

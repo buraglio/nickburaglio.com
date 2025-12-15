@@ -1,6 +1,6 @@
 ---
 id: 161
-title: '#pfSense 2.0 ipv6 tunnel scrip&#8230;'
+title: '#pfSense 2.0 ipv6 tunnel scrip'
 date: '2010-05-20T20:01:00+00:00'
 author: buraglio
 layout: post

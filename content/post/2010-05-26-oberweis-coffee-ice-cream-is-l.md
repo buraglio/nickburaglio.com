@@ -1,6 +1,6 @@
 ---
 id: 142
-title: 'Oberweis coffee ice cream is l&#8230;'
+title: 'Oberweis coffee ice cream is l'
 date: '2010-05-26T18:28:00+00:00'
 author: buraglio
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 316
-title: 'Fox news &#8230;.wow'
+title: 'Fox news .wow'
 date: '2006-12-06T10:53:00+00:00'
 author: buraglio
 layout: post

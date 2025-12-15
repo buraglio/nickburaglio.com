@@ -1,6 +1,6 @@
 ---
 id: 128
-title: '@engineerz are your eyes water&#8230;'
+title: '@engineerz are your eyes water'
 date: '2010-05-30T12:26:00+00:00'
 author: buraglio
 layout: post

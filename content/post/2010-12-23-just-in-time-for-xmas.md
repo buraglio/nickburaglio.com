@@ -1,6 +1,6 @@
 ---
 id: 31
-title: 'Just in time for xmas&#8230;.'
+title: 'Just in time for xmas.'
 date: '2010-12-23T21:06:00+00:00'
 author: buraglio
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 110
-title: 'Kickball league starts tonight&#8230;'
+title: 'Kickball league starts tonight'
 date: '2010-06-04T16:45:00+00:00'
 author: buraglio
 layout: post

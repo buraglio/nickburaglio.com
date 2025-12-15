@@ -1,6 +1,6 @@
 ---
 id: 97
-title: 'I believe my soekris box has f&#8230;'
+title: 'I believe my soekris box has f'
 date: '2010-06-08T07:45:00+00:00'
 author: buraglio
 layout: post

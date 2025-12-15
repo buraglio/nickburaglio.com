@@ -1,6 +1,6 @@
 ---
 id: 124
-title: '@wrtrgrl77 that is pretty much&#8230;'
+title: '@wrtrgrl77 that is pretty much'
 date: '2010-05-31T13:33:00+00:00'
 author: buraglio
 layout: post

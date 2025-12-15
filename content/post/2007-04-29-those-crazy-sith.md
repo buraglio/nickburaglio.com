@@ -1,6 +1,6 @@
 ---
 id: 300
-title: 'Those crazy Sith&#8230;'
+title: 'Those crazy Sith'
 date: '2007-04-29T10:39:00+00:00'
 author: buraglio
 layout: post

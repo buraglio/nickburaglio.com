@@ -1,6 +1,6 @@
 ---
 id: 339
-title: 'Ready to Ride&#8230;'
+title: 'Ready to Ride'
 date: '2006-06-23T11:13:00+00:00'
 author: buraglio
 layout: post

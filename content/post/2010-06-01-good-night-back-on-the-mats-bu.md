@@ -1,6 +1,6 @@
 ---
 id: 120
-title: 'Good night back on the mats bu&#8230;'
+title: 'Good night back on the mats bu'
 date: '2010-06-01T20:16:00+00:00'
 author: buraglio
 layout: post

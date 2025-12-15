@@ -1,6 +1,6 @@
 ---
 id: 313
-title: 'New Chad Vader episodes&#8230;.'
+title: 'New Chad Vader episodes.'
 date: '2006-12-17T18:49:00+00:00'
 author: buraglio
 layout: post

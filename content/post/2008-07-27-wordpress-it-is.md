@@ -1,6 +1,6 @@
 ---
 id: 264
-title: 'WordPress it is&#8230;.'
+title: 'WordPress it is.'
 date: '2008-07-27T22:31:00+00:00'
 author: buraglio
 layout: post

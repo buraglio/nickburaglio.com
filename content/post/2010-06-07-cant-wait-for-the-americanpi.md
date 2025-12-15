@@ -1,6 +1,6 @@
 ---
 id: 101
-title: "Can't WAIT for the @AmericanPi&#8230;"
+title: "Can't WAIT for the @AmericanPi"
 date: '2010-06-07T08:56:00+00:00'
 author: buraglio
 layout: post

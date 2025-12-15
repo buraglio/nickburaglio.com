@@ -1,6 +1,6 @@
 ---
 id: 13
-title: 'Archiving stories, memories and randomness&#8230;or, Cold Locals'
+title: 'Archiving stories, memories and randomnessor, Cold Locals'
 date: '2012-02-04T03:33:00+00:00'
 author: buraglio
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 96
-title: 'Seeing if this Buzz2Twitter an&#8230;'
+title: 'Seeing if this Buzz2Twitter an'
 date: '2010-06-08T09:50:00+00:00'
 author: buraglio
 layout: post

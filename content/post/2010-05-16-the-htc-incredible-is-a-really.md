@@ -1,6 +1,6 @@
 ---
 id: 172
-title: 'The HTC incredible is a really&#8230;'
+title: 'The HTC incredible is a really'
 date: '2010-05-16T14:35:00+00:00'
 author: buraglio
 layout: post

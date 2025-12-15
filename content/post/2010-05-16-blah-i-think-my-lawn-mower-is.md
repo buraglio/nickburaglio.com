@@ -1,6 +1,6 @@
 ---
 id: 173
-title: 'blah, I think my lawn mower is&#8230;'
+title: 'blah, I think my lawn mower is'
 date: '2010-05-16T09:48:00+00:00'
 author: buraglio
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 111
-title: 'I love that my Android Nexus O&#8230;'
+title: 'I love that my Android Nexus O'
 date: '2010-06-04T07:26:00+00:00'
 author: buraglio
 layout: post

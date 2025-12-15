@@ -1,6 +1,6 @@
 ---
 id: 44
-title: 'Movies galore&#8230;.'
+title: 'Movies galore.'
 date: '2010-08-28T16:47:00+00:00'
 author: buraglio
 layout: post

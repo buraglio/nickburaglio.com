@@ -1,6 +1,6 @@
 ---
 id: 139
-title: '@decks24 possibly the best rye&#8230;'
+title: '@decks24 possibly the best rye'
 date: '2010-05-27T20:15:00+00:00'
 author: buraglio
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 148
-title: '@queritor oh yeah. That site i&#8230;'
+title: '@queritor oh yeah. That site i'
 date: '2010-05-26T06:50:00+00:00'
 author: buraglio
 layout: post

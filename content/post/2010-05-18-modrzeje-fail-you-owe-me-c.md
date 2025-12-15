@@ -1,6 +1,6 @@
 ---
 id: 166
-title: '@modrzeje #fail. You owe me c&#8230;'
+title: '@modrzeje #fail. You owe me c'
 date: '2010-05-18T09:42:00+00:00'
 author: buraglio
 layout: post
