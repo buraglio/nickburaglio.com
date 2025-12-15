@@ -1,32 +1,104 @@
 {{ define "main" }}
 
-<h1>Content</h1>
+<div class="linktree-container">
+    <div class="profile-section">
+        <h1 class="profile-name">Nick Buraglio</h1>
+        <p class="profile-bio">Network Engineer | Artist | Skateboarder</p>
+        <p class="profile-tagline">Random junk that updates infrequently</p>
+    </div>
 
-<p>
-    Random junk that updates infrequently. 
-</p>
-<p>This site is maintained only for self-aggrandizing historical purposes. It's unlikely I'll add much, and the conversion from a very old WordPress site to this Markdown format was less than perfect. There are probably some missing posts, particularly post-2020, but they're likely not worth reading anyway. There are definitely posts with cut off content because migrating from Wordpress to Markdown is....."complicated".</p>
-<br/>
+    <div class="links-section">
+        <div class="link-category">
+            <h2>Professional</h2>
+            <a href="https://www.forwardingplane.net/" class="link-card" target="_blank" rel="noopener">
+                <span class="link-emoji">🌐</span>
+                <span class="link-text">
+                    <strong>Forwarding Plane</strong>
+                    <small>Technical Blog</small>
+                </span>
+            </a>
+            <a href="https://github.com/buraglio/resume" class="link-card" target="_blank" rel="noopener">
+                <span class="link-emoji">📄</span>
+                <span class="link-text">
+                    <strong>Resume</strong>
+                    <small>Professional Experience</small>
+                </span>
+            </a>
+            <a href="https://linkedin.com/in/buraglio/" class="link-card" target="_blank" rel="noopener">
+                <span class="link-emoji">💼</span>
+                <span class="link-text">
+                    <strong>LinkedIn</strong>
+                    <small>Connect with me</small>
+                </span>
+            </a>
+            <a href="https://github.com/buraglio" class="link-card" target="_blank" rel="noopener">
+                <span class="link-emoji">💻</span>
+                <span class="link-text">
+                    <strong>GitHub</strong>
+                    <small>Code & Projects</small>
+                </span>
+            </a>
+        </div>
 
-<h1><a href="post/">Latest posts</a></h1>
-<br>
-<h1><a href="about/">About</a></h1>
-<br>
-<h1><a href="https://github.com/buraglio/resume">Resume</a></h1>
-<br>
-<div class="posts-list">
-{{ with .Site.GetPage "/post" }}
-    {{ range first 0 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
-        <div class="post">
-            <p>
-                <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
-                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
-                {{ .Summary }}
-            </p>
-        </div>    
-    {{ end }}
-{{ end }}
+        <div class="link-category">
+            <h2>Content</h2>
+            <a href="post/" class="link-card">
+                <span class="link-emoji">📝</span>
+                <span class="link-text">
+                    <strong>Blog</strong>
+                    <small>Posts & Articles (2005-2021)</small>
+                </span>
+            </a>
+            <a href="about/" class="link-card">
+                <span class="link-emoji">👤</span>
+                <span class="link-text">
+                    <strong>About</strong>
+                    <small>My story & background</small>
+                </span>
+            </a>
+            <a href="photos/" class="link-card">
+                <span class="link-emoji">📷</span>
+                <span class="link-text">
+                    <strong>Photos</strong>
+                    <small>Photography portfolio</small>
+                </span>
+            </a>
+            <a href="tags/" class="link-card">
+                <span class="link-emoji">🏷️</span>
+                <span class="link-text">
+                    <strong>Tags</strong>
+                    <small>Browse by topic</small>
+                </span>
+            </a>
+        </div>
+
+        <div class="link-category">
+            <h2>Creative</h2>
+            <a href="https://www.teepublic.com/user/cinematic-omelete-studios" class="link-card" target="_blank" rel="noopener">
+                <span class="link-emoji">🎨</span>
+                <span class="link-text">
+                    <strong>Store</strong>
+                    <small>Art, Illustrations & T-Shirts</small>
+                </span>
+            </a>
+        </div>
+
+        <div class="link-category">
+            <h2>Interests</h2>
+            <div class="interests-grid">
+                <span class="interest-tag">🥋 Brazilian Jiu Jitsu</span>
+                <span class="interest-tag">🛹 Skateboarding</span>
+                <span class="interest-tag">🍺 Brewing</span>
+                <span class="interest-tag">🚴 Cycling</span>
+                <span class="interest-tag">🏕️ Camping</span>
+                <span class="interest-tag">⌚ Timepieces</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer-note">
+        <p><small>This site is maintained for self-aggrandizing historical purposes. The conversion from WordPress to Markdown was imperfect, so some posts may be incomplete.</small></p>
+    </div>
 </div>
-
 
 {{ end }}
