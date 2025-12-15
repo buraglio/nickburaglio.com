@@ -1,17 +1,11 @@
 ---
 id: 366
-title: 'hofbrau maibock I&#8217;d never had'
+title: "hofbrau maibock I'd never had"
 date: '2006-02-11T18:36:00+00:00'
 author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/02/11/hofbrau-maibock-id-never-had/'
 permalink: /2006/02/11/hofbrau-maibock-id-never-had/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/02/hofbrau-maibock-i-never-had.html
 dsq_thread_id:
     - '2531260183'
 post_views:

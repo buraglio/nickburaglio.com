@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/03/05/a-few-years-ago-i/'
 permalink: /2006/03/05/a-few-years-ago-i/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/03/few-years-ago-i.html
 post_views:
     - '287'
 categories:

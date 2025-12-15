@@ -1,17 +1,11 @@
 ---
 id: 259
-title: 'Buraglio&#8217;s Milk (sweet) Stout recipe.'
+title: "Buraglio's Milk (sweet) Stout recipe."
 date: '2008-08-10T19:12:00+00:00'
 author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/08/10/buraglios-milk-sweet-stout-recipe/'
 permalink: /2008/08/10/buraglios-milk-sweet-stout-recipe/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/08/buraglio-milk-sweet-stout-recipe.html
 dsq_thread_id:
     - '2689508291'
 post_views:

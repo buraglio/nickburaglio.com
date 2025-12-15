@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/01/19/i-discovered-a-nice-little/'
 permalink: /2006/01/19/i-discovered-a-nice-little/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/01/i-discovered-nice-little.html
 post_views:
     - '255'
 categories:

@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/08/23/great-image/'
 permalink: /2008/08/23/great-image/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/08/great-image.html
 post_views:
     - '353'
 categories:

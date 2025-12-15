@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/11/30/iphone-linux/'
 permalink: /2008/11/30/iphone-linux/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/11/iphone-linux.html
 post_views:
     - '305'
 categories:
@@ -22,6 +16,6 @@ categories:
 
 [iPhone Linux Demonstration Video](http://vimeo.com/2373142) from [planetbeing](http://vimeo.com/user983560) on [Vimeo](http://vimeo.com/).
 
-I’m not sure that it really means anything for everyday users of the iPhone at this point, but it’s certainly interesting for geeks, hobbyists, code hackers and possibly developers.   
-If I had a spare iPhone I might give it a whirl just to see it work, but since I don’t I’ll just be satisfied with the announcement.   
+I’m not sure that it really means anything for everyday users of the iPhone at this point, but it’s certainly interesting for geeks, hobbyists, code hackers and possibly developers. 
+If I had a spare iPhone I might give it a whirl just to see it work, but since I don’t I’ll just be satisfied with the announcement. 
 Any way you look at it’s pretty nifty.

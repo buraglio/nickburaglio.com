@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2012/10/27/another-new-glarus-oktoberfest-in-the-books/'
 permalink: /2012/10/27/another-new-glarus-oktoberfest-in-the-books/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2012/10/another-new-glarus-oktoberfest-in-books.html
 post_views:
     - '321'
 categories:

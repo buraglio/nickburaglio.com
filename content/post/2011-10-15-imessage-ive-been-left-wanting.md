@@ -1,17 +1,11 @@
 ---
 id: 17
-title: 'iMessage; I&#8217;ve been left wanting'
+title: "iMessage; I've been left wanting"
 date: '2011-10-15T15:12:00+00:00'
 author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2011/10/15/imessage-ive-been-left-wanting/'
 permalink: /2011/10/15/imessage-ive-been-left-wanting/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2011/10/imessage-ive-been-left-wanting.html
 dsq_thread_id:
     - ''
 post_views:

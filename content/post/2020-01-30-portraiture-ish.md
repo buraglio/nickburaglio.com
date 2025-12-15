@@ -12,6 +12,6 @@ categories:
     - Art
 ---
 
-A few quick sketches. Done in [Procreate](https://www.procreate.art).![IMG 0216](https://nickburaglio.com/wp-content/uploads/2020/01/IMG_0216.jpg "IMG_0216.JPG")
+A few quick sketches. Done in [Procreate](https://www.procreate.art).![IMG 0216](/wp-content/uploads/2020/01/IMG_0216.jpg "IMG_0216.JPG")
 
-![IMG 0217](https://nickburaglio.com/wp-content/uploads/2020/01/IMG_0217.jpg "IMG_0217.JPG")
+![IMG 0217](/wp-content/uploads/2020/01/IMG_0217.jpg "IMG_0217.JPG")

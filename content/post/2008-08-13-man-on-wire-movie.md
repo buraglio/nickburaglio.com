@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/08/13/man-on-wire-movie/'
 permalink: /2008/08/13/man-on-wire-movie/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/08/man-on-wire-movie.html
 dsq_thread_id:
     - '2174223551'
 post_views:

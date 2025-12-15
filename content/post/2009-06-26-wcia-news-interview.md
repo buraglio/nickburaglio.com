@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2009/06/26/wcia-news-interview/'
 permalink: /2009/06/26/wcia-news-interview/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2009/06/wcia-news-interview.html
 dsq_thread_id:
     - '2513023957'
 post_views:

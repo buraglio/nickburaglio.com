@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/09/10/rip-evan-tanner/'
 permalink: /2008/09/10/rip-evan-tanner/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/09/rip-evan-tanner.html
 post_views:
     - '294'
 categories:

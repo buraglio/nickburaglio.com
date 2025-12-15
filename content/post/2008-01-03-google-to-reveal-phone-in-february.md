@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/01/03/google-to-reveal-phone-in-february/'
 permalink: /2008/01/03/google-to-reveal-phone-in-february/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/01/google-to-reveal-phone-in-february.html
 post_views:
     - '221'
 categories:

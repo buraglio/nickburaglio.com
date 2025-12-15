@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/12/28/pfsense-1-2-1-released/'
 permalink: /2008/12/28/pfsense-1-2-1-released/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/12/pfsense-121-released.html
 post_views:
     - '274'
 categories:

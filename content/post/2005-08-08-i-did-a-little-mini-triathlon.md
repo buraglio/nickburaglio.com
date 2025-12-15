@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2005/08/08/i-did-a-little-mini-triathlon/'
 permalink: /2005/08/08/i-did-a-little-mini-triathlon/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2005/08/i-did-little-mini-triathlon.html
 post_views:
     - '260'
 categories:

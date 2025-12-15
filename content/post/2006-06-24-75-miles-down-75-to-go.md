@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/06/24/75-miles-down-75-to-go/'
 permalink: /2006/06/24/75-miles-down-75-to-go/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/06/75-miles-down75-to-go.html
 post_views:
     - '312'
 categories:

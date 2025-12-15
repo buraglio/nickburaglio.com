@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/09/17/weod-and-hilarius/'
 permalink: /2006/09/17/weod-and-hilarius/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/09/weod-and-hilarius.html
 post_views:
     - '272'
 categories:

@@ -24,7 +24,7 @@ categories:
 
 Are you old enough to remember the amazing [IBM model M keyboard](http://en.wikipedia.org/wiki/Model_M_keyboard)s? I am. And I loved mine. I had several of them as did my roommate from that time.
 
-[![800px-ModelM](http://www.nickburaglio.com/wp-content/uploads/2014/01/800px-ModelM.jpg)](http://www.nickburaglio.com/wp-content/uploads/2014/01/800px-ModelM.jpg)I remember in the mid 1990s working for a consulting firm in central IL, and during that employment one of the tasks put to us was to install a network with new PCs. Since this was a large company we were doing this for, they wanted to write off all of their items being replaced (or so I was told), so we threw the old stuff into a gigantic dumpster. During that install, we trashed likely more than 100 IBM Mechanical “clicky” keyboards. A few of us were devious enough to stow a few away. Several of us them for close to a decade after.
+[![800px-ModelM](/wp-content/uploads/2014/01/800px-ModelM.jpg)](/wp-content/uploads/2014/01/800px-ModelM.jpg)I remember in the mid 1990s working for a consulting firm in central IL, and during that employment one of the tasks put to us was to install a network with new PCs. Since this was a large company we were doing this for, they wanted to write off all of their items being replaced (or so I was told), so we threw the old stuff into a gigantic dumpster. During that install, we trashed likely more than 100 IBM Mechanical “clicky” keyboards. A few of us were devious enough to stow a few away. Several of us them for close to a decade after.
 
 Now get in your DeLorean and head to 2013. I’ve started a new job and I hear that unmistakable sound of a clicky-clack keyboard from some folks I work with. It’s oh-so-familiar and I’m whisked away to a carefree time of gaming, learning Linux and BSD and drinking crummy beer around a table of nerds with computers.
 
@@ -42,9 +42,9 @@ That being said, this review isn’t really a “review” per se, it’s a deta
 
 **Tiny space bar.** I didn’t catch this one. It’s still annoying, but I purposely got a compact keyboard. I should have seen it coming but didn’t. My hands are slowly learning that the alt key isn’t the spacebar.
 
-[![IMG_3895](http://www.nickburaglio.com/wp-content/uploads/2014/01/IMG_3895-1024x768.jpg)](http://www.nickburaglio.com/wp-content/uploads/2014/01/IMG_3895.jpg)
+[![IMG_3895](/wp-content/uploads/2014/01/IMG_3895-1024x768.jpg)](/wp-content/uploads/2014/01/IMG_3895.jpg)
 
-**Misplaced ESC key.** This is irritating. Again, I know I got the compact keyboard, but I never realized just how much muscle memory was there for that esc. key. [![IMG_3894](http://www.nickburaglio.com/wp-content/uploads/2014/01/IMG_3894-1024x768.jpg)](http://www.nickburaglio.com/wp-content/uploads/2014/01/IMG_3894.jpg)
+**Misplaced ESC key.** This is irritating. Again, I know I got the compact keyboard, but I never realized just how much muscle memory was there for that esc. key. [![IMG_3894](/wp-content/uploads/2014/01/IMG_3894-1024x768.jpg)](/wp-content/uploads/2014/01/IMG_3894.jpg)
 
 **No support for num-lock on mac**? Have not figured this one out yet. It doesn’t claim mac support, so who knows. I have done zero investigation but I have lamented it a fair amount.
 

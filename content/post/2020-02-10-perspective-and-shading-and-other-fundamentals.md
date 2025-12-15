@@ -16,4 +16,4 @@ Drawing has never been something I was great at, but nevertheless it is somethin
 
 I have really been liking the comic style shading using, at a suggestion be others, some [beat tones brushes](https://www.truegrittexturesupply.com/products/bbeat-tones-halftone-brushes-for-photoshop).
 
-<figure class="wp-block-image size-large">![](https://nickburaglio.com/wp-content/uploads/2020/02/Teeth-Gnash-666x1024.png)</figure>This was originally intended to be some wolverine-ish looking dude, then I though “maybe I’ll change that to some kind of road warrior style villain”. This is what it ended up as. I figured maybe I could put some text in the upper left at some point.
+<figure class="wp-block-image size-large">![](/wp-content/uploads/2020/02/Teeth-Gnash-666x1024.png)</figure>This was originally intended to be some wolverine-ish looking dude, then I though “maybe I’ll change that to some kind of road warrior style villain”. This is what it ended up as. I figured maybe I could put some text in the upper left at some point.

@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/01/18/i-am-rough-on-stuff/'
 permalink: /2006/01/18/i-am-rough-on-stuff/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/01/i-am-rough-on-stuff.html
 post_views:
     - '284'
 categories:
@@ -34,14 +28,14 @@ Again, I think this is a really good case, I think it is a very nice compromise 
 
 The plus sides are many:
 
-Cutout for camera. (I don’t really use the camera much but it’s available if needed)  
-Easy to use, removeable flip up screen cover  
-Cutout for mute toggle, stylus, dock / power and side buttons  
-Can take a beating  
-does not cover keyboard, making for easy use.  
+Cutout for camera. (I don’t really use the camera much but it’s available if needed) 
+Easy to use, removeable flip up screen cover 
+Cutout for mute toggle, stylus, dock / power and side buttons 
+Can take a beating 
+does not cover keyboard, making for easy use. 
 not overly expensive
 
-For those that are even more rough on their gadgets than me, there is a [Ruggedized version ](http://www.speckproducts.com/treo650ts.html) available for the same price.  
+For those that are even more rough on their gadgets than me, there is a [Ruggedized version ](http://www.speckproducts.com/treo650ts.html) available for the same price. 
 I’d like to try out the [Smartphone Experts S650 Skin Case](http://shop.treonauts.com/content/accessories/4-54--137.htm) as soon as I can get around to buying it. If someone wants to donate it thats be great too, I’d be happy to write a “regular guy” review of it.
 
 <div></div>

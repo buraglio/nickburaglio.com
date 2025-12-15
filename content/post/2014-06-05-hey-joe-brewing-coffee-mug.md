@@ -11,7 +11,7 @@ themeblvd_title:
 themeblvd_keywords:
     - 'coffee, Hey Joe coffee mug, kickstarter, travel mug, brew coffee, hey joe coffee, nick buraglio, buraglio'
 themeblvd_description:
-    - 'Hey Joe brewing coffee mug; the heating, brewing travel mug for serious coffee drinkers. Heat your coffee to the right temperature, brew it and carry it all in one swanky mug.  '
+    - 'Hey Joe brewing coffee mug; the heating, brewing travel mug for serious coffee drinkers. Heat your coffee to the right temperature, brew it and carry it all in one swanky mug. '
 themeblvd_noindex:
     - 'true'
 dsq_thread_id:
@@ -24,7 +24,7 @@ categories:
 
 I’m a bit of a coffee nut. I love good, high quality coffee. I’ve written about it [many](http://www.nickburaglio.com/2013/12/27/greatest-coffee-mug-ive-ever-owned-16oz-contigo-autoseal-stainless-steel-vacuum-insulated-tumbler/ "Greatest coffee mug I’ve ever owned. (16oz Contigo Autoseal Stainless Steel Vacuum Insulated Tumbler)"), [many](http://www.nickburaglio.com/2009/01/02/coffee-facts/ "Coffee Facts"), [many](http://www.nickburaglio.com/2006/06/12/coffee-counteracts-alcohol-effects-on-liver/ "coffee counteracts alcohol effects on liver?"), [many](http://www.nickburaglio.com/2011/09/05/caffe-ladro/ "Caffe Ladro") times. In fact, I have a hard time getting going before coffee in the mornings, having been a coffee drinker since I was ~17 (I have no clue how my teeth aren’t stained; it baffles the dentist). I don’t drink soda, just coffee, water and beer. So, when [a kickstarter for the Hey Joe brewing coffee mug ](https://www.kickstarter.com/projects/163685099/hey-joe-coffee-mug-brew-joe-on-the-go)was brought to my attention, I thought “wow, why has no one done this before?”. What is it, you ask? It’s a battery powered, heating, coffee brewing mug. That’s right.
 
-![b4d953c3acb64df68c5d551c8088024e_large](http://www.nickburaglio.com/wp-content/uploads/2014/06/b4d953c3acb64df68c5d551c8088024e_large.jpg)
+![b4d953c3acb64df68c5d551c8088024e_large](/wp-content/uploads/2014/06/b4d953c3acb64df68c5d551c8088024e_large.jpg)
 
 My initial reaction to this was “ok, I need that. Now”.
 

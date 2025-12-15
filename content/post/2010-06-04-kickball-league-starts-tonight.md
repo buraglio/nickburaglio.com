@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2010/06/04/kickball-league-starts-tonight/'
 permalink: /2010/06/04/kickball-league-starts-tonight/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2010/06/kickball-league-starts-tonight.html
 post_views:
     - '235'
 categories:

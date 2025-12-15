@@ -1,17 +1,11 @@
 ---
 id: 261
-title: 'Yup, it&#8217;s a boy.'
+title: "Yup, it's a boy."
 date: '2008-07-30T08:35:00+00:00'
 author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/07/30/yup-its-a-boy/'
 permalink: /2008/07/30/yup-its-a-boy/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/07/yup-it-boy.html
 post_views:
     - '321'
 categories:

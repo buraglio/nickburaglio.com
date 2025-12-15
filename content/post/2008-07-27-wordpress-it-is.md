@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/07/27/wordpress-it-is/'
 permalink: /2008/07/27/wordpress-it-is/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/07/wordpress-it-is.html
 post_views:
     - '1343'
 categories:

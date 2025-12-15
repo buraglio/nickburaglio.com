@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/12/16/new-hosting/'
 permalink: /2006/12/16/new-hosting/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/12/new-hosting.html
 post_views:
     - '307'
 categories:

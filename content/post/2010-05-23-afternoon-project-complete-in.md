@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2010/05/23/afternoon-project-complete-in/'
 permalink: /2010/05/23/afternoon-project-complete-in/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2010/05/afternoon-project-complete-in.html
 post_views:
     - '167'
 categories:

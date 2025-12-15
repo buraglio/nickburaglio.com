@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2010/05/20/pfsense-2-0-ipv6-tunnel-scrip/'
 permalink: /2010/05/20/pfsense-2-0-ipv6-tunnel-scrip/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2010/05/pfsense-20-ipv6-tunnel-scrip.html
 post_views:
     - '190'
 categories:

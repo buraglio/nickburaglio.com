@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2007/10/22/13-bargain-websites-that-are-cheaper-than-ebay/'
 permalink: /2007/10/22/13-bargain-websites-that-are-cheaper-than-ebay/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2007/10/13-bargain-websites-that-are-cheaper.html
 dsq_thread_id:
     - '2426729854'
 post_views:

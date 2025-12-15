@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/01/21/caffeine-amounts-in-popular-soft-drinks/'
 permalink: /2008/01/21/caffeine-amounts-in-popular-soft-drinks/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/01/caffeine-amounts-in-popular-soft-drinks.html
 post_views:
     - '281'
 categories:

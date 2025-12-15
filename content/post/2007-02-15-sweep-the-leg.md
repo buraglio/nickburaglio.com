@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2007/02/15/sweep-the-leg/'
 permalink: /2007/02/15/sweep-the-leg/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2007/02/sweep-leg.html
 dsq_thread_id:
     - '2508525789'
 post_views:
@@ -20,5 +14,5 @@ categories:
     - 'The firehose'
 ---
 
-This was brought to my attention by my cousin, Tony, and is probably one of the greatest things I’ve seen in a looooooooong time. I believe it has pretty much all the original characters from [The Karate Kid](http://imdb.com/title/tt0087538/). I had to watch it twice in a row.  
+This was brought to my attention by my cousin, Tony, and is probably one of the greatest things I’ve seen in a looooooooong time. I believe it has pretty much all the original characters from [The Karate Kid](http://imdb.com/title/tt0087538/). I had to watch it twice in a row. 
 Enjoy:

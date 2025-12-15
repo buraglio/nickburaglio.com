@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2010/05/17/gw-kernel-pid-11127-tor-ui/'
 permalink: /2010/05/17/gw-kernel-pid-11127-tor-ui/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2010/05/gw-kernel-pid-11127-tor-ui.html
 post_views:
     - '181'
 categories:

@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2005/08/29/i-did-the-cu-across/'
 permalink: /2005/08/29/i-did-the-cu-across/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2005/08/i-did-cu-across.html
 post_views:
     - '264'
 categories:

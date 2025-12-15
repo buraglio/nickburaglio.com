@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2011/03/03/meatloaf-travis/'
 permalink: /2011/03/03/meatloaf-travis/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2011/03/meatloaf-travis.html
 post_views:
     - '326'
 categories:

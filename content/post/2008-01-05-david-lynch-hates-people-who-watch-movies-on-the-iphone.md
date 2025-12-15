@@ -6,19 +6,13 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/01/05/david-lynch-hates-people-who-watch-movies-on-the-iphone/'
 permalink: /2008/01/05/david-lynch-hates-people-who-watch-movies-on-the-iphone/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/01/david-lynch-hates-people-who-watch.html
 post_views:
     - '281'
 categories:
     - 'The firehose'
 ---
 
-As much as I respect DAvid Lynch, I have to disagree about watching movies on the iPhone (or laptop, or any mobile device). It’s too darned convenient when traveling, even if it does change the experience.  
+As much as I respect DAvid Lynch, I have to disagree about watching movies on the iPhone (or laptop, or any mobile device). It’s too darned convenient when traveling, even if it does change the experience. 
 From Gizmodo: Always thought that watching movies on a tiny portable device is a crummy experience in pretty much every way possible. Crazy-ass director David Lynch (of Mulholland Dr., Lost Highway and Twin Peaks fame) thinks so too. Vehemently. And even if he is a little nuts, his faux iPhone ad both educates and entertains.
 
 This is probably NSFW:

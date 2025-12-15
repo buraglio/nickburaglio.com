@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2005/12/14/i-added-a-seperate-sub/'
 permalink: /2005/12/14/i-added-a-seperate-sub/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2005/12/i-added-seperate-sub.html
 post_views:
     - '251'
 categories:

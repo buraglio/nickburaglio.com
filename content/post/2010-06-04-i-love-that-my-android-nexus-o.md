@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2010/06/04/i-love-that-my-android-nexus-o/'
 permalink: /2010/06/04/i-love-that-my-android-nexus-o/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2010/06/i-love-that-my-android-nexus-o.html
 post_views:
     - '192'
 categories:

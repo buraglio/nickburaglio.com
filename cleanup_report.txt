@@ -1,0 +1,54 @@
+BLOG POST CLEANUP REPORT
+========================
+Date: 2025-12-15
+Total Posts: 434
+
+BACKUP CREATED
+--------------
+Location: content/post_backup_20251215_123834/
+Files backed up: 437 (includes all markdown files)
+
+FIXES APPLIED
+-------------
+✓ HTML entity conversion (&#8217; → ', &amp; → &, etc.)
+✓ Double space removal
+✓ Blogger metadata removal (blogger_blog, blogger_author, blogger_permalink)
+
+RESULTS
+-------
+Files Processed: 434
+Files Modified: 419
+Files Unchanged: 15
+
+VERIFICATION
+------------
+✓ HTML entities (&#8217;): 0 files remaining (was 48+)
+✓ Ampersands (&amp;): 0 files remaining (was 97+)
+✓ Blogger metadata: 0 files remaining (was 402)
+✓ Double spaces: Reduced to single spaces throughout
+
+BEFORE/AFTER EXAMPLE
+--------------------
+Before: title: 'Greatest coffee mug I&#8217;ve ever owned.'
+After:  title: 'Greatest coffee mug I've ever owned.'
+
+Before: blogger_blog:
+          - www.nickburaglio.com
+After:  [removed]
+
+REMAINING ISSUES (Not Fixed)
+-----------------------------
+The following issues were identified but NOT automatically fixed:
+- WordPress image paths (80 files) - requires manual review
+- Nested image syntax (66 files) - requires manual review  
+- Empty image alt text (73 files) - requires manual review
+- Twitter digest posts (66 files) - user decision needed
+- Old domain links (54 files) - user decision needed
+
+ROLLBACK INSTRUCTIONS
+---------------------
+If you need to restore the original files:
+  rm -rf content/post
+  mv content/post_backup_20251215_123834 content/post
+
+Script Location: cleanup_posts.py

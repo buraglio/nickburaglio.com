@@ -1,6 +1,6 @@
 ---
 id: 550
-title: 'How I gave up Facebook and why I don&#8217;t regret it.'
+title: "How I gave up Facebook and why I don't regret it."
 date: '2013-10-01T15:29:57+00:00'
 author: buraglio
 layout: post
@@ -9,11 +9,11 @@ permalink: /2013/10/01/how-i-gave-up-facebook-and-why-i-dont-regret-it/
 themeblvd_noindex:
     - 'true'
 themeblvd_title:
-    - 'Hoe I gave up facebook and why I don''t regret it.  '
+    - 'Hoe I gave up facebook and why I don''t regret it. '
 themeblvd_keywords:
     - 'facebook, nick buraglio, give up facebook, delete facebook, deactivate facebook '
 themeblvd_description:
-    - 'I decided on a whim to deactivate facebook and it made me feel like I''m free.  '
+    - 'I decided on a whim to deactivate facebook and it made me feel like I''m free. '
 dsq_thread_id:
     - '2158931239'
 post_views:
@@ -28,7 +28,7 @@ Flash back to early 2005. I was working at a .edu and signed up for Facebook to 
 
 I will fully admit that some of this was my fault. I blindly added pretty much everyone that sent me a friend request. Before I knew it, I had FB friends that were not even really casual acquaintances in high school….and I’d been out of high school for 15 years at the time. I had “friends” that were people that I did not even know.
 
-Essentially, it became work. But it was an addictive kind of work. It was far more addictive than I had realized, actually. I would habitually check it to “see what was up” with a group of people, a large percentage of whom I did not really even know. Sure, there was family on “the book” as well as many close friends. The thing about that is, I can find out what is going on with them or what they’re doing by actually ***seeing*** them.[![ThumbsDown](http://www.nickburaglio.com/wp-content/uploads/2013/11/ThumbsDown-300x278.png)](http://www.nickburaglio.com/wp-content/uploads/2013/11/ThumbsDown.png) Or calling them on the phone. Or via email. **And** will by far more personal. …it just won’t be as convenient and condensed into a single place.
+Essentially, it became work. But it was an addictive kind of work. It was far more addictive than I had realized, actually. I would habitually check it to “see what was up” with a group of people, a large percentage of whom I did not really even know. Sure, there was family on “the book” as well as many close friends. The thing about that is, I can find out what is going on with them or what they’re doing by actually ***seeing*** them.[![ThumbsDown](/wp-content/uploads/2013/11/ThumbsDown-300x278.png)](/wp-content/uploads/2013/11/ThumbsDown.png) Or calling them on the phone. Or via email. **And** will by far more personal. …it just won’t be as convenient and condensed into a single place.
 
 I tried pruning the list but it was just too out of control. It needed a controlled burn, but I was never really able to come to terms with that. So I let it continue to grow out of control.
 

@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/01/08/this-snl-skit-is-an/'
 permalink: /2006/01/08/this-snl-skit-is-an/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/01/this-snl-skit-is.html
 post_views:
     - '236'
 categories:

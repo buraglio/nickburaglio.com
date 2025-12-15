@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/02/01/honey-light-lager-from/'
 permalink: /2008/02/01/honey-light-lager-from/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/02/honey-light-lager-from.html
 dsq_thread_id:
     - '2356236564'
 post_views:
@@ -22,7 +16,7 @@ categories:
 
 <span> </span>
 
-<div><div><div><div><div> **Honey Light Lager** </div>| From the BrewBlog of Nick Buraglio    Champaign, IL USA |
+<div><div><div><div><div> **Honey Light Lager** </div>| From the BrewBlog of Nick Buraglio Champaign, IL USA |
 |---|
 | Printed January 26, 2008 |
 
@@ -42,11 +36,11 @@ categories:
 | 1.00 pounds | Crystal Malt 20L | 25% of grist |
 | 1.00 pounds | Total Grain Weight | 25% of grist |
 | **Adjuncts** |
-| 2.50 pounds | Honey (Clover) |  |
+| 2.50 pounds | Honey (Clover) | |
 | **Yeast** |
 | White Labs Pilsner Lager yeast 1800ctp3115011 — Liquid — 35ml |
 
-</div><div> **Procedure** </div><div>| Added 1.5 Gallons spring water to pot   Added 3lb Extra light DME   Added 2.5lb Honey (from Chestnut apiary)   Added 1lb 20L crystal malt   Added 1.5oz Cascade hop pellets   Added extra 1/2 cup of extra light DME (I had it around)   Heated to boil   Removed the Grains @ 40 Min   Continue to boil and stir   Added .5oz cascade hop pellets @ 3 min   Sparge directly into 3.5 gallons of cold water   Waited till temp was around 75-80 and pitched <span>Pilsner Lager yeast 1800ctp3115011 (White Labs)<span> </span></span>   Target gravity was supposed to be 1.048 – 1.052   but it was 1.039-1.040   FG should be 1.004 – 1.008   01/26/2006   So far the yeast seems to be doing it’s job. Smells great.  2/1/2007  Gravity is 1.011  It still has a lot of krausen. |
+</div><div> **Procedure** </div><div>| Added 1.5 Gallons spring water to pot Added 3lb Extra light DME Added 2.5lb Honey (from Chestnut apiary) Added 1lb 20L crystal malt Added 1.5oz Cascade hop pellets Added extra 1/2 cup of extra light DME (I had it around) Heated to boil Removed the Grains @ 40 Min Continue to boil and stir Added .5oz cascade hop pellets @ 3 min Sparge directly into 3.5 gallons of cold water Waited till temp was around 75-80 and pitched <span>Pilsner Lager yeast 1800ctp3115011 (White Labs)<span> </span></span> Target gravity was supposed to be 1.048 – 1.052 but it was 1.039-1.040 FG should be 1.004 – 1.008 01/26/2006 So far the yeast seems to be doing it’s job. Smells great. 2/1/2007 Gravity is 1.011 It still has a lot of krausen. |
 |---|
 
 </div></div><div><div><div> **BJCP Style Info** </div>| **Style:** | Premium American Lager |
@@ -76,5 +70,5 @@ categories:
 | **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** | \_\_\_\_\_\_\_\_\_\_ |
 | **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** | \_\_\_\_\_\_\_\_\_\_ |
 
-</div></div></div><div> Printed using BrewBlogger brewing log software for PHP and MySQL.  
- URL: http://buraglio.com/nick/brew/sections/print.inc.php?page=recipePrint&amp;brewStyle=Premium%20American%20Lager&amp;id=14 </div></div></div>
+</div></div></div><div> Printed using BrewBlogger brewing log software for PHP and MySQL. 
+ URL: http://buraglio.com/nick/brew/sections/print.inc.php?page=recipePrint&brewStyle=Premium%20American%20Lager&id=14 </div></div></div>

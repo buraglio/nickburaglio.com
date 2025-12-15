@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2010/06/06/engineerz-i-sold-my-iphone-3g/'
 permalink: /2010/06/06/engineerz-i-sold-my-iphone-3g/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2010/06/engineerz-i-sold-my-iphone-3g.html
 post_views:
     - '187'
 categories:

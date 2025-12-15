@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2010/06/01/good-night-back-on-the-mats-bu/'
 permalink: /2010/06/01/good-night-back-on-the-mats-bu/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2010/06/good-night-back-on-mats-bu.html
 dsq_thread_id:
     - '4115905738'
 post_views:

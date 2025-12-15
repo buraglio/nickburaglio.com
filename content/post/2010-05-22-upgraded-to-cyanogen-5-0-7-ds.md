@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2010/05/22/upgraded-to-cyanogen-5-0-7-ds/'
 permalink: /2010/05/22/upgraded-to-cyanogen-5-0-7-ds/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2010/05/upgraded-to-cyanogen-507-ds.html
 post_views:
     - '182'
 categories:

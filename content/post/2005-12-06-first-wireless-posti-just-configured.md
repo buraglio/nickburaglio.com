@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2005/12/06/first-wireless-posti-just-configured/'
 permalink: /2005/12/06/first-wireless-posti-just-configured/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2005/12/first-wireless-posti-just-configured.html
 post_views:
     - '242'
 categories:

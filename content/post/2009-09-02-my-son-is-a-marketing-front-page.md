@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2009/09/02/my-son-is-a-marketing-front-page/'
 permalink: /2009/09/02/my-son-is-a-marketing-front-page/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2009/09/my-son-is-marketing-front-page.html
 post_views:
     - '279'
 categories:

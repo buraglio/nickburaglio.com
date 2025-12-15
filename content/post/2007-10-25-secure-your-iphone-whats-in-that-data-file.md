@@ -1,17 +1,11 @@
 ---
 id: 293
-title: 'Secure Your iPhone: What&#8217;s in that data file?'
+title: "Secure Your iPhone: What's in that data file?"
 date: '2007-10-25T15:38:00+00:00'
 author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2007/10/25/secure-your-iphone-whats-in-that-data-file/'
 permalink: /2007/10/25/secure-your-iphone-whats-in-that-data-file/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2007/10/secure-your-iphone-what-in-that-data.html
 post_views:
     - '330'
 categories:

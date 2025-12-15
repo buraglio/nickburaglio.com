@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/11/19/new-star-trek-movie/'
 permalink: /2008/11/19/new-star-trek-movie/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/11/new-star-trek-movie.html
 post_views:
     - '273'
 categories:

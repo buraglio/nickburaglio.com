@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2010/06/02/weeklyroast-look-at-android-d/'
 permalink: /2010/06/02/weeklyroast-look-at-android-d/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2010/06/weeklyroast-look-at-android-d.html
 post_views:
     - '212'
 categories:

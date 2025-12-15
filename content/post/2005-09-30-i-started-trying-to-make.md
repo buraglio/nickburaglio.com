@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2005/09/30/i-started-trying-to-make/'
 permalink: /2005/09/30/i-started-trying-to-make/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2005/09/i-started-trying-to-make.html
 post_views:
     - '247'
 categories:

@@ -1,6 +1,6 @@
 ---
 id: 685
-title: 'Star Wars: The Force Awakens&#8230;&#8230;and it&#8217;s associated parodies'
+title: "Star Wars: The Force Awakens&#8230;&#8230;and it's associated parodies"
 date: '2014-12-10T23:53:10+00:00'
 author: buraglio
 layout: post
@@ -22,7 +22,7 @@ categories:
     - 'The firehose'
 ---
 
-I am and always have been a huge Star Wars fan. I am old enough to remember ESB and lucky enough to have seen ROTJ in the theater. However, I, like many die hard fans, was completely turned off by EP 1, 2 and 3. So much so that I have erased them from my memory and consider them to never have existed. That is why I wasn’t terribly excited when I heard that there was a [new one being released](http://www.imdb.com/title/tt2488496/) (and being directed by [J.J. Abrams](http://www.imdb.com/name/nm0009190/?ref_=tt_ov_dr)).![jar-jar-binks](http://www.nickburaglio.com/wp-content/uploads/2014/12/jar-jar-binks.jpg)
+I am and always have been a huge Star Wars fan. I am old enough to remember ESB and lucky enough to have seen ROTJ in the theater. However, I, like many die hard fans, was completely turned off by EP 1, 2 and 3. So much so that I have erased them from my memory and consider them to never have existed. That is why I wasn’t terribly excited when I heard that there was a [new one being released](http://www.imdb.com/title/tt2488496/) (and being directed by [J.J. Abrams](http://www.imdb.com/name/nm0009190/?ref_=tt_ov_dr)).![jar-jar-binks](/wp-content/uploads/2014/12/jar-jar-binks.jpg)
 
 And then I saw the trailer.
 

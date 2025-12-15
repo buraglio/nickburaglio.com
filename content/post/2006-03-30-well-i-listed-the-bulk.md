@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/03/30/well-i-listed-the-bulk/'
 permalink: /2006/03/30/well-i-listed-the-bulk/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/03/well-i-listed-bulk.html
 post_views:
     - '271'
 categories:

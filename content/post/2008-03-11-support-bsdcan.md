@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/03/11/support-bsdcan/'
 permalink: /2008/03/11/support-bsdcan/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/03/support-bsdcan.html
 dsq_thread_id:
     - '3747894243'
 post_views:

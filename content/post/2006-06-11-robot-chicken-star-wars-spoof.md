@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/06/11/robot-chicken-star-wars-spoof/'
 permalink: /2006/06/11/robot-chicken-star-wars-spoof/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/06/robot-chicken-star-wars-spoof.html
 post_views:
     - '324'
 categories:

@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2010/09/14/the-wormhole-coffee-shop/'
 permalink: /2010/09/14/the-wormhole-coffee-shop/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2010/09/wormhole-coffee-shop.html
 post_views:
     - '305'
 categories:

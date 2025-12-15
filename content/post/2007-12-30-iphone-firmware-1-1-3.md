@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2007/12/30/iphone-firmware-1-1-3/'
 permalink: /2007/12/30/iphone-firmware-1-1-3/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2007/12/iphone-firmware-113.html
 post_views:
     - '302'
 categories:

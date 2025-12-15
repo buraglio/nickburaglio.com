@@ -1,17 +1,11 @@
 ---
 id: 389
-title: 'I&#8217;m such a spaz.'
+title: "I'm such a spaz."
 date: '2005-10-30T08:42:00+00:00'
 author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2005/10/30/im-such-a-spaz/'
 permalink: /2005/10/30/im-such-a-spaz/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2005/10/i-such-spaz.html
 post_views:
     - '259'
 categories:

@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/12/10/wolverine-origins/'
 permalink: /2008/12/10/wolverine-origins/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/12/wolverine-origins.html
 post_views:
     - '283'
 categories:

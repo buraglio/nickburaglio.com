@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/02/04/aldaris-porteris-brewed-by-the/'
 permalink: /2006/02/04/aldaris-porteris-brewed-by-the/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/02/aldaris-porteris-brewed-by.html
 post_views:
     - '274'
 categories:

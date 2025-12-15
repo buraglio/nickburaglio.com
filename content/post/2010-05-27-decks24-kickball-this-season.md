@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2010/05/27/decks24-kickball-this-season/'
 permalink: /2010/05/27/decks24-kickball-this-season/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2010/05/decks24-kickball-this-season.html
 post_views:
     - '543'
 categories:

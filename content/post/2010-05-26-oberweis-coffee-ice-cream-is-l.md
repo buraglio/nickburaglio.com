@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2010/05/26/oberweis-coffee-ice-cream-is-l/'
 permalink: /2010/05/26/oberweis-coffee-ice-cream-is-l/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2010/05/oberweis-coffee-ice-cream-is-l.html
 post_views:
     - '216'
 categories:

@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2010/10/18/the-walking-dead-2/'
 permalink: /2010/10/18/the-walking-dead-2/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /feeds/50386155451990485/posts/default/122685250595228552
 dsq_thread_id:
     - '2519359792'
 post_views:

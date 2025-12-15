@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2010/06/04/knassery-i-used-broadvoice-fo/'
 permalink: /2010/06/04/knassery-i-used-broadvoice-fo/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2010/06/knassery-i-used-broadvoice-fo.html
 post_views:
     - '221'
 categories:

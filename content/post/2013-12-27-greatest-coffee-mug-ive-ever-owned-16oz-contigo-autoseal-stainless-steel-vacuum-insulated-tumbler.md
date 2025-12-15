@@ -1,6 +1,6 @@
 ---
 id: 596
-title: 'Greatest coffee mug I&#8217;ve ever owned. (16oz Contigo Autoseal Stainless Steel Vacuum Insulated Tumbler)'
+title: "Greatest coffee mug I've ever owned. (16oz Contigo Autoseal Stainless Steel Vacuum Insulated Tumbler)"
 date: '2013-12-27T15:22:19+00:00'
 author: buraglio
 layout: post
@@ -28,17 +28,17 @@ One of the gifts I received from my wife this year for the holidays was a Contig
 
 This one, however, is totally different.
 
-Actually, the “mug” isn’t different at all, it’s just a contoured stainless steel glass. [![Contigo_Mug1](http://www.nickburaglio.com/wp-content/uploads/2013/12/Contigo_Mug1-300x225.jpg)](http://www.nickburaglio.com/wp-content/uploads/2013/12/Contigo_Mug1.jpg)
+Actually, the “mug” isn’t different at all, it’s just a contoured stainless steel glass. [![Contigo_Mug1](/wp-content/uploads/2013/12/Contigo_Mug1-300x225.jpg)](/wp-content/uploads/2013/12/Contigo_Mug1.jpg)
 
-It’s the marvel that is the lid that really sets this travel companion apart. As you can see, it has a red “button” on the side. That is what causes the magic. [![Contigo_Mug3](http://www.nickburaglio.com/wp-content/uploads/2013/12/Contigo_Mug3-225x300.jpg)](http://www.nickburaglio.com/wp-content/uploads/2013/12/Contigo_Mug3.jpg)
+It’s the marvel that is the lid that really sets this travel companion apart. As you can see, it has a red “button” on the side. That is what causes the magic. [![Contigo_Mug3](/wp-content/uploads/2013/12/Contigo_Mug3-225x300.jpg)](/wp-content/uploads/2013/12/Contigo_Mug3.jpg)
 
-[![Contigo_Mug4](http://www.nickburaglio.com/wp-content/uploads/2013/12/Contigo_Mug4-300x225.jpg)](http://www.nickburaglio.com/wp-content/uploads/2013/12/Contigo_Mug4.jpg)
+[![Contigo_Mug4](/wp-content/uploads/2013/12/Contigo_Mug4-300x225.jpg)](/wp-content/uploads/2013/12/Contigo_Mug4.jpg)
 
-This is what allows the valve to open and allow the coffee out. And it works. I mean it[![Contigo_Mug2](http://www.nickburaglio.com/wp-content/uploads/2013/12/Contigo_Mug2-225x300.jpg)](http://www.nickburaglio.com/wp-content/uploads/2013/12/Contigo_Mug2.jpg) *really* works. I did some experimentation like holding the mug upside down, closing the valve while drinking, knocking it over, etc. and it does exactly what its supposed to. It closes the opening and *nothing* gets out. no more spills, no more coffee on shirts, pants, in the car or on electronics.
+This is what allows the valve to open and allow the coffee out. And it works. I mean it[![Contigo_Mug2](/wp-content/uploads/2013/12/Contigo_Mug2-225x300.jpg)](/wp-content/uploads/2013/12/Contigo_Mug2.jpg) *really* works. I did some experimentation like holding the mug upside down, closing the valve while drinking, knocking it over, etc. and it does exactly what its supposed to. It closes the opening and *nothing* gets out. no more spills, no more coffee on shirts, pants, in the car or on electronics.
 
 Oh, and it keeps coffee hot for ***hours***. I’m not one to generally have coffee sitting around and not be drinking it, but sometimes you just get busy and don’t get a chance. Interrupt driven occupations like IT tend to have this issue. I like my coffee to be the optimal temperature pretty much all the time, this, so far, is doing a better job at that than any portable (or otherwise) coffee mug ever has.
 
-I’m so confident that this mug won’t leak or spill, I carried it (and plan to continue to carry it) in the water bottle holder of my [Timbuk2 messenger bag](http://www.nickburaglio.com/2013/12/21/messenger-bag-revisited-timbuk2-command-laptop-tsa-friendly-messenger-bag/ "Messenger bag – revisited – Timbuk2 Command Laptop TSA-Friendly Messenger Bag"), something I’ve never been comfortable doing before.[![Contigo_Mug6](http://www.nickburaglio.com/wp-content/uploads/2013/12/Contigo_Mug6-300x225.jpg)](http://www.nickburaglio.com/wp-content/uploads/2013/12/Contigo_Mug6.jpg)
+I’m so confident that this mug won’t leak or spill, I carried it (and plan to continue to carry it) in the water bottle holder of my [Timbuk2 messenger bag](http://www.nickburaglio.com/2013/12/21/messenger-bag-revisited-timbuk2-command-laptop-tsa-friendly-messenger-bag/ "Messenger bag – revisited – Timbuk2 Command Laptop TSA-Friendly Messenger Bag"), something I’ve never been comfortable doing before.[![Contigo_Mug6](/wp-content/uploads/2013/12/Contigo_Mug6-300x225.jpg)](/wp-content/uploads/2013/12/Contigo_Mug6.jpg)
 
 **Pros:**
 

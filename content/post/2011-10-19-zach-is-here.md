@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2011/10/19/zach-is-here/'
 permalink: /2011/10/19/zach-is-here/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2011/10/zach-is-here.html
 post_views:
     - '334'
 categories:

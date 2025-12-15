@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2011/03/13/sexy-saxman-serenade/'
 permalink: /2011/03/13/sexy-saxman-serenade/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2011/03/refered-to-me-by-sean-holland-i-found.html
 dsq_thread_id:
     - '2203147771'
 post_views:

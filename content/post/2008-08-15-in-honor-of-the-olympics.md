@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/08/15/in-honor-of-the-olympics/'
 permalink: /2008/08/15/in-honor-of-the-olympics/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/08/in-honor-of-olympics.html
 post_views:
     - '302'
 categories:

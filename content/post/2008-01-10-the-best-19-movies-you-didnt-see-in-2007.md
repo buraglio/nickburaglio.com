@@ -1,17 +1,11 @@
 ---
 id: 280
-title: 'The Best 19 Movies You Didn&#8217;t See in 2007'
+title: "The Best 19 Movies You Didn't See in 2007"
 date: '2008-01-10T22:06:00+00:00'
 author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/01/10/the-best-19-movies-you-didnt-see-in-2007/'
 permalink: /2008/01/10/the-best-19-movies-you-didnt-see-in-2007/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/01/best-19-movies-you-didn-see-in-2007.html
 post_views:
     - '297'
 categories:

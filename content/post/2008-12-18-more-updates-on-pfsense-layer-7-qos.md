@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2008/12/18/more-updates-on-pfsense-layer-7-qos/'
 permalink: /2008/12/18/more-updates-on-pfsense-layer-7-qos/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2008/12/more-updates-on-pfsense-layer-7-qos.html
 dsq_thread_id:
     - '2167550416'
 post_views:

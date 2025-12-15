@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2006/12/06/fox-news-wow/'
 permalink: /2006/12/06/fox-news-wow/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2006/12/fox-news-wow.html
 post_views:
     - '278'
 categories:

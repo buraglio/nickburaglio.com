@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2010/09/23/beer-making-101-bottling/'
 permalink: /2010/09/23/beer-making-101-bottling/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2010/09/beer-making-101-bottling.html
 dsq_thread_id:
     - '2535489108'
 post_views:

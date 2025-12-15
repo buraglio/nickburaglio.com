@@ -6,12 +6,6 @@ author: buraglio
 layout: post
 guid: 'http://new.nickburaglio.com/2010/06/02/weeklyroast-vzw-is-a-great-ne/'
 permalink: /2010/06/02/weeklyroast-vzw-is-a-great-ne/
-blogger_blog:
-    - www.nickburaglio.com
-blogger_author:
-    - 'Nick Buraglio'
-blogger_permalink:
-    - /2010/06/weeklyroast-vzw-is-great-ne.html
 post_views:
     - '168'
 categories:
