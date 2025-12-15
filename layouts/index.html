@@ -1,32 +1,75 @@
 {{ define "main" }}
 
-<h1>Content</h1>
+<div class="linktree-container">
+    <div class="profile-section">
+        <h1 class="profile-name">Nick Buraglio</h1>
+        <p class="profile-bio">Personal site for Nick Buraglio</p>
+        <p class="profile-tagline"></p>
+    </div>
 
-<p>
-    Random junk that updates infrequently. 
-</p>
-<p>This site is maintained only for self-aggrandizing historical purposes. It's unlikely I'll add much, and the conversion from a very old WordPress site to this Markdown format was less than perfect. There are probably some missing posts, particularly post-2020, but they're likely not worth reading anyway. There are definitely posts with cut off content because migrating from Wordpress to Markdown is....."complicated".</p>
-<br/>
+    <div class="links-section">
+        <div class="link-card">
+            <span class="link-emoji">🌐</span>
+            <span class="link-text">
+                <strong>Professional</strong>
+                <ul class="sub-links">
+                    <li><a href="https://www.forwardingplane.net/" target="_blank">Technical Blog</a></li>
+                    <li><a href="https://scholar.google.com/citations?user=f2v2hLUAAAAJ&hl=en" target="_blank">Academic and Technical Publications </a></li>
+                    <li><a href="https://datatracker.ietf.org/person/buraglio@forwardingplane.net" target="_blank">IETF Datatracker</a></li>
+                    <li><a href="https://linkedin.com/in/buraglio/" target="_blank">LinkedIn</a></li>
+                    <li><a href="https://github.com/buraglio" target="_blank">GitHub</a></li>
+                    <li><a href="https://github.com/buraglio/resume" target="_blank">Resume</a></li>
+                </ul>
+            </span>
+        </div>
+        <div class="link-card">
+            <span class="link-emoji">📝</span>
+            <span class="link-text">
+                <strong>Projects</strong>
+                <ul class="sub-links">
+                    <li><a href="https://stats.ipv6.army">Large Scale IPv6 measurements</a></li>
+                    <li><a href="https://www.ipv6.army">Local IPv6 Performance Testing</a></li>
+                    <li><a href="https://tokeping-dev.mpls.rsvp/public-dashboards/a86956c210244d97ab30471aeff13343">High Fidelity latency testing</a></li>
+                </ul>
+            </span>
+        </div>
+        <div class="link-card">
+            <span class="link-emoji">📝</span>
+            <span class="link-text">
+                <strong>Content</strong>
+                <ul class="sub-links">
+                    <li><a href="post/">Personal Blog (Archived; 2005-2021)</a></li>
+                    <li><a href="tags/">Browse by topic</a></li>
+                </ul>
+            </span>
+        </div>
 
-<h1><a href="post/">Latest posts</a></h1>
-<br>
-<h1><a href="about/">About</a></h1>
-<br>
-<h1><a href="https://github.com/buraglio/resume">Resume</a></h1>
-<br>
-<div class="posts-list">
-{{ with .Site.GetPage "/post" }}
-    {{ range first 0 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
-        <div class="post">
-            <p>
-                <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
-                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
-                {{ .Summary }}
-            </p>
-        </div>    
-    {{ end }}
-{{ end }}
+        <div class="link-card">
+            <span class="link-emoji">🎨</span>
+            <span class="link-text">
+                <strong>Creative</strong>
+                <ul class="sub-links">
+                    <li><a href="https://www.teepublic.com/user/cinematic-omelete-studios" target="_blank">Store - Art, Illustrations & T-Shirts</a></li>
+                </ul>
+            </span>
+        </div>
+                <div class="link-card">
+            <span class="link-emoji">🎨</span>
+            <span class="link-text">
+                <strong>Contact / Social</strong>
+                <ul class="sub-links">
+                    <li><a href="https://bsky.app/profile/forwardingplane.net" target="_blank">BlueSky</a></li>
+                    <li><a href="https://social.ipv6.army/@forwardingplane" target="_blank">Mastodon</a></li>
+                    <li><a href="firstname at lastname dot com" target="_blank">Email</a></li>
+                    <li><a href="https://letterboxd.com/coldlocals/" target="_blank">Letterboxd</a></li>
+                </ul>
+            </span>
+        </div>
+    </div>
+
+    <div class="footer-note">
+        <p><small>This site is maintained for self-aggrandizing historical purposes. The conversion from WordPress to Markdown was imperfect, so some posts may be incomplete.</small></p>
+    </div>
 </div>
-
 
 {{ end }}
